@@ -1,0 +1,5816 @@
+term	score	AffectDimension
+indigné	0.964	anger
+brutalité	0.959	anger
+haine	0.953	anger
+odieux	0.94	anger
+terroriser	0.939	anger
+furieux	0.938	anger
+violemment	0.938	anger
+furieux	0.929	anger
+furieux	0.927	anger
+furieusement	0.927	anger
+allez vous faire foutre	0.924	anger
+meurtrier	0.922	anger
+fureur	0.922	anger
+exécution	0.917	anger
+irrité	0.916	anger
+sauvagerie	0.915	anger
+abattage	0.914	anger
+très en colère	0.913	anger
+assassiner	0.912	anger
+annihilation	0.912	anger
+fuckoff	0.912	anger
+rage	0.911	anger
+détester	0.909	anger
+damnation	0.906	anger
+fucktard	0.906	anger
+homicide	0.906	anger
+rage au volant	0.906	anger
+scandale	0.9	anger
+hostile	0.898	anger
+annihiler	0.898	anger
+meurtre	0.897	anger
+rage	0.896	anger
+explosif	0.894	anger
+exaspère	0.894	anger
+bourré	0.894	anger
+féroce	0.894	anger
+effacé	0.894	anger
+râpé	0.894	anger
+vengeur	0.894	anger
+tellement énervé	0.894	anger
+meurtre	0.893	anger
+combatif	0.891	anger
+gofuckyourself	0.886	anger
+vengeance	0.886	anger
+colère	0.885	anger
+tourmenter	0.885	anger
+vicieux	0.884	anger
+massacre	0.882	anger
+menaçant	0.882	anger
+odieux	0.875	anger
+faire chier	0.875	anger
+sanguinaire	0.875	anger
+combat	0.868	anger
+attaquer	0.865	anger
+annihilé	0.865	anger
+effusion de sang	0.864	anger
+le plus en colère	0.864	anger
+frapper	0.862	anger
+bagarre	0.861	anger
+mal intentionné	0.859	anger
+tirade	0.859	anger
+agression	0.859	anger
+hostilité	0.859	anger
+exploser	0.859	anger
+assassinat	0.859	anger
+étrangler	0.859	anger
+détestable	0.857	anger
+meurtrier	0.853	anger
+attaque	0.853	anger
+enfer	0.853	anger
+malice	0.852	anger
+terrorisme	0.851	anger
+battement	0.849	anger
+profanation	0.848	anger
+pissingmeoff	0.848	anger
+outrage	0.848	anger
+détruire	0.844	anger
+furieux	0.844	anger
+exaspérer	0.844	anger
+poignarder	0.844	anger
+violent	0.844	anger
+tumultueux	0.844	anger
+abomination	0.844	anger
+abattage	0.844	anger
+effacer	0.843	anger
+belligérant	0.841	anger
+imbécile	0.841	anger
+détester	0.838	anger
+hostilités	0.837	anger
+piquer	0.835	anger
+torture	0.833	anger
+enragé	0.833	anger
+déchaînement	0.833	anger
+affreux	0.833	anger
+cruauté	0.833	anger
+méprisable	0.828	anger
+tyrannique	0.828	anger
+démoniaque	0.828	anger
+haïr	0.828	anger
+mode rage	0.828	anger
+haine	0.828	anger
+satanique	0.828	anger
+ruineux	0.825	anger
+condamner	0.825	anger
+crétin	0.824	anger
+démolir	0.824	anger
+fâché	0.824	anger
+émeutes	0.824	anger
+extermination	0.824	anger
+livide	0.821	anger
+fou	0.82	anger
+vindicatif	0.819	anger
+terroriste	0.818	anger
+menacer	0.818	anger
+vous déteste	0.818	anger
+effyou	0.818	anger
+férocité	0.818	anger
+venimeux	0.818	anger
+abhorrer	0.816	anger
+sauvage	0.814	anger
+atrocité	0.814	anger
+carnage	0.814	anger
+angrytweet	0.812	anger
+barbare	0.812	anger
+vengeance	0.812	anger
+destructeur	0.812	anger
+énervé	0.812	anger
+abuser de	0.812	anger
+furieux	0.812	anger
+pissesmeoff	0.812	anger
+fou furieux	0.812	anger
+féroce	0.812	anger
+merde	0.812	anger
+tyran	0.812	anger
+colère	0.811	anger
+morceau de merde	0.81	anger
+homicide	0.803	anger
+claquer	0.803	anger
+perforation	0.803	anger
+chienne	0.803	anger
+combats	0.803	anger
+poinçonné	0.803	anger
+impitoyable	0.797	anger
+destructeur	0.797	anger
+infâme	0.797	anger
+gifler	0.791	anger
+en hurlant	0.788	anger
+ragetweet	0.788	anger
+punir	0.788	anger
+diabolique	0.788	anger
+émeute	0.788	anger
+grandir	0.788	anger
+détruit	0.788	anger
+de représailles	0.788	anger
+abattoir	0.788	anger
+homicide involontaire	0.783	anger
+choc	0.783	anger
+détonation	0.781	anger
+sinistre	0.781	anger
+atroce	0.781	anger
+querelle	0.781	anger
+sanglant	0.781	anger
+répugnance	0.781	anger
+perfide	0.779	anger
+la farine	0.779	anger
+hateeee	0.779	anger
+accusant	0.779	anger
+horrible	0.773	anger
+dégoût	0.773	anger
+garance	0.773	anger
+user de représailles	0.773	anger
+mépris	0.769	anger
+déplorable	0.766	anger
+bombe	0.766	anger
+renvoyé	0.765	anger
+dévastation	0.765	anger
+anarchiste	0.765	anger
+tempête de feu	0.765	anger
+méprisable	0.764	anger
+le plus merdique	0.76	anger
+fracasser	0.758	anger
+cruel	0.758	anger
+tellement en colère	0.758	anger
+diabolique	0.758	anger
+mortel	0.758	anger
+explosion	0.757	anger
+gronder	0.754	anger
+offenser	0.75	anger
+fou	0.75	anger
+révoltant	0.75	anger
+aggravant	0.75	anger
+horreur	0.75	anger
+mépriser	0.75	anger
+ne me dis pas	0.75	anger
+stfu	0.75	anger
+grondement	0.75	anger
+profane	0.75	anger
+vulgarité	0.75	anger
+douchebags	0.75	anger
+merde	0.742	anger
+la violence	0.742	anger
+attentat à la pudeur	0.742	anger
+en hurlant	0.742	anger
+éclater	0.742	anger
+horrible	0.742	anger
+menace	0.742	anger
+bâtards	0.741	anger
+vengeance	0.738	anger
+catastrophe	0.735	anger
+menaçant	0.735	anger
+zut	0.735	anger
+démon	0.735	anger
+écrasement	0.735	anger
+débattre	0.734	anger
+séditieux	0.734	anger
+marre	0.734	anger
+déplorer	0.734	anger
+guerre	0.734	anger
+se disputer	0.734	anger
+véhément	0.734	anger
+persécuter	0.734	anger
+fouetter	0.734	anger
+révolte	0.734	anger
+altercation	0.729	anger
+belliqueux	0.728	anger
+merde	0.727	anger
+castrer	0.727	anger
+mutinerie	0.727	anger
+sabotage	0.727	anger
+malveillant	0.721	anger
+la grève	0.721	anger
+catastrophe	0.721	anger
+catastrophique	0.72	anger
+fou	0.719	anger
+crier	0.719	anger
+trou de fosse	0.719	anger
+brutal	0.719	anger
+fer à cheval	0.719	anger
+bâtard	0.719	anger
+tumulte	0.719	anger
+mépris	0.719	anger
+diable	0.719	anger
+tuer	0.719	anger
+aggrave	0.719	anger
+traîtrise	0.719	anger
+vermine	0.719	anger
+brûlant	0.719	anger
+étranglement	0.719	anger
+malveillant	0.719	anger
+mutilation	0.714	anger
+mutiler	0.714	anger
+criminel	0.714	anger
+anarchisme	0.714	anger
+coup de poing	0.713	anger
+dénonciation	0.713	anger
+holocauste	0.712	anger
+virulence	0.712	anger
+fatal	0.712	anger
+blasphématoire	0.712	anger
+blesser	0.712	anger
+tu n'aimes pas	0.712	anger
+imbéciles	0.712	anger
+combattu	0.712	anger
+crucifixion	0.712	anger
+irrité	0.706	anger
+mal	0.706	anger
+atroce	0.706	anger
+dérangé	0.706	anger
+enlever	0.703	anger
+aggravé	0.703	anger
+assassin	0.703	anger
+réprimande	0.703	anger
+bites	0.703	anger
+tueur	0.703	anger
+intimidation	0.703	anger
+persécution	0.703	anger
+agression	0.702	anger
+armé	0.7	anger
+poison	0.697	anger
+venin	0.697	anger
+hargneux	0.697	anger
+bataille	0.697	anger
+mécontent	0.693	anger
+agresseur	0.691	anger
+rancœur	0.691	anger
+insidieux	0.691	anger
+lyncher	0.69	anger
+méprisant	0.69	anger
+infanticide	0.688	anger
+emprisonnement	0.688	anger
+tempérer	0.688	anger
+terrible	0.688	anger
+furieux	0.688	anger
+fou	0.688	anger
+domination	0.688	anger
+irrité	0.688	anger
+makememad	0.688	anger
+brute	0.688	anger
+malédiction	0.688	anger
+dénigrer	0.688	anger
+volatilité	0.687	anger
+éradication	0.685	anger
+dévaster	0.682	anger
+colère	0.682	anger
+scélérat	0.682	anger
+éradiquer	0.682	anger
+agressivement	0.68	anger
+agitation	0.68	anger
+dictature	0.676	anger
+irrite	0.676	anger
+impiété	0.673	anger
+coup	0.672	anger
+explétif	0.672	anger
+méchant	0.672	anger
+la criminalité	0.672	anger
+toxique	0.672	anger
+corrompre	0.672	anger
+lâche	0.672	anger
+tirer	0.672	anger
+pousser	0.672	anger
+condamnation	0.672	anger
+aggravation	0.672	anger
+assouvir	0.672	anger
+énorme	0.672	anger
+mépris	0.672	anger
+écrasé	0.672	anger
+nocif	0.672	anger
+cruellement	0.672	anger
+maniaque	0.67	anger
+combat	0.667	anger
+agressif	0.667	anger
+frappé	0.667	anger
+bats toi	0.667	anger
+crier	0.667	anger
+égorgé	0.667	anger
+irritable	0.667	anger
+odieux	0.667	anger
+tournage	0.667	anger
+haïr tout le monde	0.667	anger
+donner un coup	0.667	anger
+éruption	0.667	anger
+ennemi	0.667	anger
+puni	0.662	anger
+embuscade	0.661	anger
+hurler	0.661	anger
+harceler	0.659	anger
+encens	0.656	anger
+sang	0.656	anger
+malin	0.656	anger
+rancune	0.656	anger
+antéchrist	0.656	anger
+agresseur	0.656	anger
+expulser	0.656	anger
+destruction	0.656	anger
+excentrique	0.653	anger
+grognement	0.652	anger
+esclave	0.652	anger
+donner une fessée	0.652	anger
+dénoncer	0.652	anger
+représailles	0.652	anger
+insultant	0.652	anger
+se disputer	0.652	anger
+insurrection	0.652	anger
+offensé	0.652	anger
+animosité	0.652	anger
+grogne	0.649	anger
+bourreau	0.644	anger
+chatte	0.644	anger
+jour du jugement dernier	0.643	anger
+incendie volontaire	0.641	anger
+grr	0.641	anger
+démon	0.641	anger
+prise de bec	0.641	anger
+obscénité	0.641	anger
+ravage	0.641	anger
+manille	0.641	anger
+accusé	0.641	anger
+querelle	0.641	anger
+expulsion	0.641	anger
+indigné	0.641	anger
+réprimande	0.641	anger
+inexcusable	0.641	anger
+bombarder	0.641	anger
+si fou	0.637	anger
+fessée	0.636	anger
+suicidaire	0.636	anger
+anarchie	0.636	anger
+combattant	0.636	anger
+pendaison	0.636	anger
+empoisonné	0.636	anger
+frustré	0.636	anger
+blessure	0.636	anger
+flagrant	0.636	anger
+battre	0.636	anger
+répugnant	0.636	anger
+coup de pied	0.636	anger
+infliger	0.633	anger
+détruit	0.633	anger
+grave	0.632	anger
+poursuivre	0.63	anger
+agité	0.63	anger
+tricher	0.63	anger
+svastika	0.627	anger
+raid	0.625	anger
+maudire	0.625	anger
+harcèlement	0.625	anger
+provocation	0.625	anger
+conflit	0.625	anger
+suffocation	0.625	anger
+diffamatoire	0.625	anger
+fléau	0.625	anger
+blesser	0.625	anger
+esclave	0.625	anger
+accuser	0.625	anger
+trahir	0.625	anger
+tonnerre	0.625	anger
+trou de trou	0.624	anger
+secousse	0.621	anger
+insensé	0.621	anger
+représailles	0.621	anger
+privation	0.621	anger
+condamné	0.621	anger
+vol	0.621	anger
+irriter	0.621	anger
+démon	0.621	anger
+jeté	0.619	anger
+la tourmente	0.618	anger
+claque	0.615	anger
+châtiment	0.614	anger
+esclavage	0.609	anger
+irritabilité	0.609	anger
+amèrement	0.609	anger
+batterie	0.609	anger
+antagonisme	0.609	anger
+les chattes	0.609	anger
+oppresseur	0.609	anger
+préjudiciable	0.609	anger
+intolérable	0.609	anger
+gang	0.609	anger
+rébellion	0.609	anger
+collision	0.609	anger
+négatif	0.609	anger
+disgracié	0.608	anger
+révolution	0.606	anger
+diatribe	0.606	anger
+connard	0.606	anger
+fanfaron	0.606	anger
+voyou	0.606	anger
+antagoniste	0.606	anger
+explosion	0.606	anger
+écœurant	0.606	anger
+irritant	0.606	anger
+irritations	0.606	anger
+bombardement	0.606	anger
+la discrimination	0.606	anger
+frustrer	0.604	anger
+oppression	0.603	anger
+insulter	0.603	anger
+en avoir assez	0.603	anger
+manipulation	0.603	anger
+bigot	0.603	anger
+tension	0.603	anger
+nuisible	0.603	anger
+dégoûter	0.602	anger
+dépit	0.6	anger
+intrusif	0.598	anger
+dureté	0.597	anger
+liaison	0.596	anger
+misérable	0.594	anger
+invasion	0.594	anger
+morbidité	0.594	anger
+assaillir	0.594	anger
+tempête	0.594	anger
+misérable	0.594	anger
+crevaison	0.594	anger
+victime	0.594	anger
+amertume	0.594	anger
+enfer	0.594	anger
+assaut	0.594	anger
+consternation	0.592	anger
+délirant	0.591	anger
+coupable	0.591	anger
+dépravé	0.591	anger
+immoral	0.591	anger
+de force	0.591	anger
+irrésistible	0.591	anger
+guillotine	0.591	anger
+récalcitrant	0.588	anger
+maudit	0.588	anger
+envahisseur	0.588	anger
+effrayer	0.588	anger
+vissé	0.588	anger
+tellement contrarié	0.588	anger
+jalousie	0.587	anger
+indignation	0.587	anger
+vexé	0.586	anger
+affronter	0.582	anger
+brute	0.581	anger
+étrangler	0.579	anger
+se chamailler	0.578	anger
+coup	0.578	anger
+de défi	0.578	anger
+criminalité	0.578	anger
+provoquant	0.578	anger
+conflit	0.578	anger
+revolver	0.578	anger
+boucher	0.578	anger
+fouetter	0.578	anger
+incarcération	0.578	anger
+litigieux	0.578	anger
+fermer	0.578	anger
+tu crains	0.578	anger
+dommage	0.578	anger
+épave	0.578	anger
+pillage	0.578	anger
+tais-toi	0.578	anger
+flamber	0.578	anger
+salope	0.578	anger
+cancer	0.577	anger
+blasphème	0.576	anger
+perturbation	0.576	anger
+dontmess	0.576	anger
+impasse	0.576	anger
+pernicieux	0.576	anger
+aliénation	0.576	anger
+pistolet	0.576	anger
+discorde	0.576	anger
+tâtonner	0.576	anger
+chaotique	0.576	anger
+frustration	0.576	anger
+sanglant	0.576	anger
+condescendance	0.576	anger
+discriminer	0.576	anger
+friggen	0.575	anger
+mort	0.574	anger
+folie	0.574	anger
+coup	0.574	anger
+oppressif	0.574	anger
+maudit	0.574	anger
+monstruosité	0.574	anger
+scandaleux	0.574	anger
+ricanement	0.574	anger
+merde	0.573	anger
+sabrer	0.571	anger
+désobligeant	0.571	anger
+injuste	0.571	anger
+potence	0.57	anger
+intensifier	0.569	anger
+intolérant	0.564	anger
+anarchie	0.563	anger
+grognon	0.562	anger
+soufflet	0.562	anger
+traitre	0.562	anger
+affreux	0.562	anger
+perdition	0.562	anger
+calomnie	0.562	anger
+raillerie	0.562	anger
+envahir	0.562	anger
+querelles	0.562	anger
+calomnier	0.562	anger
+bluddy	0.562	anger
+arghh	0.562	anger
+horrible	0.562	anger
+baissier	0.562	anger
+dérogatoire	0.562	anger
+éblouissement	0.562	anger
+trompé	0.562	anger
+torpille	0.562	anger
+retards	0.562	anger
+la bête	0.562	anger
+traverser	0.561	anger
+blesser	0.561	anger
+banshee	0.561	anger
+incontrôlé	0.561	anger
+briser	0.561	anger
+compromettre	0.561	anger
+dévastateur	0.561	anger
+incendie	0.561	anger
+voleur	0.561	anger
+idiots	0.561	anger
+convient	0.561	anger
+grille	0.561	anger
+délirer	0.561	anger
+dissension	0.561	anger
+trahison	0.561	anger
+perturbé	0.559	anger
+assujettissement	0.559	anger
+piétiné	0.557	anger
+saisir	0.557	anger
+coché	0.556	anger
+grief	0.556	anger
+masochisme	0.556	anger
+défi	0.552	anger
+chantage	0.55	anger
+offensive	0.549	anger
+décrier	0.548	anger
+péché	0.547	anger
+violation	0.547	anger
+confiner	0.547	anger
+frustré	0.547	anger
+autoritaire	0.547	anger
+tromper	0.547	anger
+misère	0.547	anger
+rebelle	0.547	anger
+châtiment	0.547	anger
+armes à feu	0.547	anger
+côté obscur	0.547	anger
+arghhhh	0.547	anger
+disparité	0.547	anger
+frustrer	0.547	anger
+honteux	0.547	anger
+aigu	0.547	anger
+colère	0.547	anger
+absurde	0.547	anger
+en avoir assez	0.546	anger
+volé	0.546	anger
+préjudice	0.545	anger
+ennuyeux	0.545	anger
+humilier	0.545	anger
+irrité	0.545	anger
+conspirateur	0.545	anger
+insensible	0.545	anger
+ruiné	0.545	anger
+adversaire	0.545	anger
+menace	0.545	anger
+branleur	0.545	anger
+antagoniste	0.545	anger
+escarmouche	0.545	anger
+tacle	0.545	anger
+chauffé	0.545	anger
+faute	0.545	anger
+argument	0.545	anger
+piquer	0.544	anger
+plaindre	0.544	anger
+vol	0.544	anger
+empêtré	0.544	anger
+tollé	0.544	anger
+irréconciliable	0.543	anger
+la résistance	0.543	anger
+obstructif	0.542	anger
+consternation	0.54	anger
+foule	0.538	anger
+arrête	0.537	anger
+méchanceté	0.536	anger
+ridicule	0.534	anger
+incendiaire	0.533	anger
+fusées éclairantes	0.532	anger
+soulèvement	0.531	anger
+double face	0.531	anger
+exacerbation	0.531	anger
+contestation	0.531	anger
+fouet	0.531	anger
+communisme	0.531	anger
+préjudiciable	0.531	anger
+intrus	0.531	anger
+rabaisser	0.531	anger
+accouchement	0.531	anger
+débridé	0.531	anger
+allégation	0.531	anger
+téméraire	0.531	anger
+dégénérescence	0.531	anger
+dictatorial	0.53	anger
+injustifiable	0.53	anger
+fanatique	0.53	anger
+injuste	0.53	anger
+tracas	0.53	anger
+perversion	0.53	anger
+délinquant	0.53	anger
+fiesta	0.53	anger
+attaqué	0.53	anger
+dissonance	0.53	anger
+renégat	0.529	anger
+chaud	0.529	anger
+prison	0.529	anger
+cantstandit	0.529	anger
+intrusion	0.529	anger
+suicide	0.521	anger
+ennuyer	0.52	anger
+laisse-moi tranquille	0.517	anger
+malhonnête	0.516	anger
+dépravation	0.516	anger
+méfiance	0.516	anger
+griller	0.516	anger
+idiot	0.516	anger
+trahison	0.516	anger
+la ventilation	0.516	anger
+délictueux	0.516	anger
+contrainte	0.516	anger
+critiquer	0.516	anger
+grrr	0.516	anger
+hostile	0.516	anger
+irrespectueux	0.516	anger
+crétins	0.516	anger
+prisonnier	0.516	anger
+divorce	0.516	anger
+le chaos	0.515	anger
+coercition	0.515	anger
+impitoyable	0.515	anger
+méchant	0.515	anger
+frustrant	0.515	anger
+bile	0.515	anger
+déchaîner	0.515	anger
+argumentation	0.515	anger
+saccades	0.515	anger
+pow	0.515	anger
+grincheux	0.515	anger
+accrocher	0.515	anger
+victime	0.515	anger
+les braconniers	0.515	anger
+gronder	0.515	anger
+braconnage	0.515	anger
+rugir	0.515	anger
+lutte	0.514	anger
+fléau	0.511	anger
+répudiation	0.51	anger
+accusation	0.51	anger
+hostilité	0.51	anger
+bannir	0.509	anger
+défiguré	0.508	anger
+orage	0.507	anger
+peur	0.5	anger
+fou	0.5	anger
+angoisse	0.5	anger
+confiné	0.5	anger
+railler	0.5	anger
+éviter	0.5	anger
+dérogation	0.5	anger
+banni	0.5	anger
+martelage	0.5	anger
+malmené	0.5	anger
+possédé	0.5	anger
+tout le monde s'en fout	0.5	anger
+frénétique	0.5	anger
+supplice	0.5	anger
+délirant	0.5	anger
+rejeter	0.5	anger
+obstruer	0.5	anger
+moussant	0.5	anger
+intraitable	0.5	anger
+combat	0.5	anger
+effronté	0.5	anger
+condescendant	0.5	anger
+rejette	0.5	anger
+ferveur	0.5	anger
+dominer	0.5	anger
+dérision	0.5	anger
+lance	0.5	anger
+suppression	0.5	anger
+animus	0.5	anger
+indiscipliné	0.5	anger
+déranger	0.5	anger
+faute professionnelle	0.5	anger
+defier	0.5	anger
+injustice	0.5	anger
+antithèse	0.5	anger
+se dépasser	0.495	anger
+dureté	0.492	anger
+gens stupides	0.492	anger
+la démence	0.491	anger
+coupable	0.491	anger
+opprimer	0.49	anger
+avarice	0.49	anger
+révoquer	0.485	anger
+inceste	0.485	anger
+contrebandier	0.485	anger
+vengeur	0.485	anger
+désapprouvé	0.485	anger
+demande	0.485	anger
+reste loin	0.485	anger
+griffe	0.485	anger
+infraction	0.485	anger
+coupe	0.485	anger
+pervertir	0.485	anger
+fringant	0.485	anger
+anathème	0.485	anger
+agacé	0.485	anger
+désobéissant	0.485	anger
+aliéner	0.485	anger
+mauvais service	0.485	anger
+abolir	0.485	anger
+inhumain	0.485	anger
+dissident	0.485	anger
+plainte	0.485	anger
+usurper	0.485	anger
+odieux	0.484	anger
+tromperie	0.484	anger
+disgrâce	0.484	anger
+opposé	0.484	anger
+renoncer	0.484	anger
+litigieux	0.484	anger
+détenu	0.484	anger
+railleur	0.484	anger
+faire des reproches	0.484	anger
+peine	0.484	anger
+battre	0.484	anger
+bouleversement	0.484	anger
+restreindre	0.484	anger
+tendu	0.484	anger
+ventouse	0.484	anger
+rivalité	0.484	anger
+évincer	0.484	anger
+méfiant	0.484	anger
+turbulence	0.483	anger
+livre	0.481	anger
+froideur	0.477	anger
+ingrat	0.472	anger
+bataillon	0.471	anger
+stupide	0.471	anger
+adversité	0.47	anger
+ram	0.47	anger
+fiel	0.47	anger
+infidèle	0.47	anger
+ennuyeux	0.47	anger
+friction	0.47	anger
+otage	0.47	anger
+jaloux	0.47	anger
+accusateur	0.47	anger
+féodalisme	0.47	anger
+subversion	0.47	anger
+armement	0.47	anger
+dépossédé	0.47	anger
+détresse	0.469	anger
+intolérance	0.469	anger
+subversif	0.469	anger
+opposition	0.469	anger
+exilé	0.469	anger
+pillage	0.469	anger
+récidive	0.469	anger
+objection	0.469	anger
+voler	0.469	anger
+infraction	0.469	anger
+se plaindre	0.469	anger
+souffler	0.469	anger
+mijoter	0.469	anger
+égoïste	0.469	anger
+recul	0.469	anger
+inciter	0.469	anger
+gestion de la colère	0.469	anger
+auteur	0.469	anger
+désobéir	0.469	anger
+perturbation	0.469	anger
+étouffer	0.469	anger
+blessure	0.469	anger
+égoïsme	0.469	anger
+folie	0.469	anger
+étouffé	0.469	anger
+cogner	0.469	anger
+ne pas aimer	0.469	anger
+est-ce que vous plaisantez	0.468	anger
+agresser	0.467	anger
+agonie	0.465	anger
+arrogant	0.461	anger
+élimination	0.456	anger
+piquets de grève	0.456	anger
+hautain	0.456	anger
+sux	0.456	anger
+évacuer	0.456	anger
+râpé	0.455	anger
+clameur	0.455	anger
+contrainte	0.455	anger
+chuté	0.455	anger
+imperméable	0.455	anger
+illégalité	0.455	anger
+mourant	0.455	anger
+flagrant	0.455	anger
+idiotie	0.455	anger
+éclaté	0.455	anger
+crabby	0.455	anger
+illicite	0.455	anger
+veto	0.455	anger
+gênant	0.455	anger
+tromper	0.455	anger
+mal	0.453	anger
+despotisme	0.453	anger
+lutte	0.453	anger
+usurpé	0.453	anger
+en désaccord	0.453	anger
+hystérique	0.453	anger
+cesser	0.453	anger
+impie	0.453	anger
+réprimer	0.453	anger
+désapprobateur	0.453	anger
+mécontent	0.453	anger
+baïonnette	0.453	anger
+intense	0.453	anger
+illicite	0.451	anger
+à tort	0.448	anger
+repoussant	0.442	anger
+psychose	0.441	anger
+ennemi	0.441	anger
+injustifié	0.441	anger
+déshonorer	0.441	anger
+perdu	0.441	anger
+aversion	0.44	anger
+schisme	0.439	anger
+gahhh	0.439	anger
+punitif	0.439	anger
+jointures	0.439	anger
+dérangé	0.439	anger
+effigie	0.439	anger
+ultimatum	0.439	anger
+délétère	0.438	anger
+mucked	0.438	anger
+irritation	0.438	anger
+sans valeur	0.438	anger
+une rançon	0.438	anger
+séparatiste	0.438	anger
+fugitif	0.438	anger
+nier	0.438	anger
+abandon	0.438	anger
+stupidité	0.438	anger
+oubli	0.437	anger
+séparer	0.437	anger
+remboursement	0.436	anger
+expulsion	0.435	anger
+incongru	0.435	anger
+connivence	0.432	anger
+rob	0.431	anger
+infidélité	0.429	anger
+vorace	0.429	anger
+envahi	0.429	anger
+incrédule	0.426	anger
+stupidrain	0.426	anger
+martial	0.426	anger
+douloureux	0.426	anger
+présage	0.426	anger
+passer à autre chose	0.426	anger
+rejet	0.426	anger
+la défense	0.425	anger
+antipathique	0.424	anger
+pétard	0.424	anger
+blennorragie	0.424	anger
+fallacieux	0.424	anger
+indécence	0.424	anger
+exaspération	0.424	anger
+agitation	0.424	anger
+dissimulation	0.424	anger
+puissant	0.424	anger
+frauduleux	0.424	anger
+frauder	0.424	anger
+imposer	0.424	anger
+censurer	0.424	anger
+avidité	0.424	anger
+désobéissance	0.424	anger
+agitation	0.424	anger
+mécontentement	0.424	anger
+pénitencier	0.422	anger
+ortie	0.422	anger
+duel	0.422	anger
+bannissement	0.422	anger
+barbillon	0.422	anger
+déportation	0.422	anger
+sarcasme	0.422	anger
+pénétration	0.422	anger
+coup	0.422	anger
+cicatrice	0.422	anger
+fissuré	0.422	anger
+sédition	0.422	anger
+contrariété	0.422	anger
+cabot	0.422	anger
+snobé	0.422	anger
+dénaturé	0.422	anger
+flagrant	0.42	anger
+obliger	0.418	anger
+pervers	0.415	anger
+tordre	0.415	anger
+sinistre	0.413	anger
+bastion	0.413	anger
+sordide	0.412	anger
+pas heureux	0.412	anger
+de mauvaise humeur	0.412	anger
+tiff	0.412	anger
+bourru	0.412	anger
+chasse	0.411	anger
+indenture	0.41	anger
+vous plaisantez j'espère	0.409	anger
+reproche	0.409	anger
+compulsion	0.409	anger
+faux	0.409	anger
+cantwin	0.409	anger
+suprématie	0.409	anger
+décevoir	0.409	anger
+écraser	0.409	anger
+déclarer forfait	0.409	anger
+terrible	0.409	anger
+détenu	0.409	anger
+impliquer	0.409	anger
+blocus	0.409	anger
+se faufiler	0.409	anger
+contredire	0.409	anger
+inepte	0.409	anger
+mensonge	0.408	anger
+antipathie	0.406	anger
+illusion	0.406	anger
+impensable	0.406	anger
+wop	0.406	anger
+tremblement	0.406	anger
+lourd	0.406	anger
+abandonné	0.406	anger
+inégalité	0.406	anger
+blaireau	0.406	anger
+cacophonie	0.406	anger
+méfait	0.406	anger
+épidémie	0.406	anger
+rail	0.406	anger
+nuisance	0.406	anger
+la tremblante	0.406	anger
+arguments	0.404	anger
+affront	0.403	anger
+traumatique	0.402	anger
+gazonner	0.4	anger
+calomnie	0.4	anger
+agace	0.4	anger
+tellement lent	0.398	anger
+fais attention	0.398	anger
+frénétique	0.397	anger
+négligent	0.397	anger
+barge	0.396	anger
+fraude	0.394	anger
+hurler	0.394	anger
+confisquer	0.394	anger
+boxe	0.394	anger
+harceler	0.394	anger
+passible d'action	0.394	anger
+illégal	0.394	anger
+clé	0.394	anger
+manque de respect	0.394	anger
+dangit	0.394	anger
+éteindre	0.394	anger
+poursuivre en justice	0.394	anger
+fâcheux	0.394	anger
+populace	0.394	anger
+hostile	0.394	anger
+à quoi ça sert	0.394	anger
+soufre	0.392	anger
+tremblement de terre	0.391	anger
+grrrrr	0.391	anger
+gréé	0.391	anger
+argh	0.391	anger
+piquer	0.391	anger
+insouciance	0.391	anger
+dissolution	0.391	anger
+être en désaccord	0.389	anger
+procès	0.386	anger
+désespoir	0.382	anger
+abandonné	0.382	anger
+immoralité	0.382	anger
+incurable	0.379	anger
+coups de coude	0.379	anger
+falsification	0.379	anger
+contraindre	0.379	anger
+suceptible	0.379	anger
+firstworldprobs	0.379	anger
+endolori	0.379	anger
+difficulté	0.379	anger
+fusil	0.379	anger
+grésiller	0.379	anger
+piquet	0.378	anger
+commotion cérébrale	0.377	anger
+coincé	0.375	anger
+pessimisme	0.375	anger
+renvoi	0.375	anger
+piège	0.375	anger
+rawr	0.375	anger
+canon	0.375	anger
+infantile	0.375	anger
+désillusion	0.375	anger
+sournois	0.375	anger
+petpeeve	0.375	anger
+milice	0.375	anger
+défectueux	0.375	anger
+inhiber	0.371	anger
+justifier	0.371	anger
+népotisme	0.371	anger
+pénible	0.371	anger
+schizophrénie	0.369	anger
+faussé	0.368	anger
+de mauvaise réputation	0.368	anger
+interdiction	0.368	anger
+conquête	0.367	anger
+écorce	0.365	anger
+leucémie	0.365	anger
+malheureux	0.364	anger
+burke	0.364	anger
+guerrier	0.364	anger
+désapprouver	0.364	anger
+défi	0.364	anger
+retardé	0.364	anger
+ceinture	0.364	anger
+aboiements	0.364	anger
+dogmatique	0.359	anger
+restriction	0.359	anger
+incompétence	0.359	anger
+polémique	0.359	anger
+intensité	0.359	anger
+manque	0.359	anger
+controversé	0.359	anger
+conséquences	0.359	anger
+détesté	0.359	anger
+plaider	0.359	anger
+sectaire	0.359	anger
+cad	0.359	anger
+cassé	0.359	anger
+interrompant	0.358	anger
+difficile	0.357	anger
+jeune fille	0.353	anger
+retirer	0.351	anger
+mauvaise conduite	0.351	anger
+gosse	0.351	anger
+bourru	0.351	anger
+rareté	0.35	anger
+perdant	0.349	anger
+temps passé	0.348	anger
+mensonge	0.348	anger
+stigmate	0.348	anger
+indigne de confiance	0.348	anger
+déserté	0.348	anger
+désaccord	0.348	anger
+désappointé	0.348	anger
+se rétracter	0.348	anger
+ulcère	0.348	anger
+ravageur	0.348	anger
+endurci	0.348	anger
+défaut	0.348	anger
+partialité	0.345	anger
+éluder	0.344	anger
+antisocial	0.344	anger
+non fiable	0.344	anger
+trompeur	0.344	anger
+avare	0.344	anger
+anxiété	0.344	anger
+dépouillé	0.344	anger
+impuissance	0.344	anger
+instable	0.344	anger
+précaire	0.344	anger
+déranger	0.344	anger
+pirate	0.344	anger
+négation	0.344	anger
+de mauvaise qualité	0.344	anger
+désavouer	0.344	anger
+détérioration	0.344	anger
+interminable	0.343	anger
+se mêler	0.341	anger
+maladie	0.341	anger
+chaîne	0.34	anger
+opposé	0.338	anger
+alcoolisme	0.338	anger
+infâme	0.338	anger
+rangée	0.337	anger
+tatillon	0.336	anger
+illégitime	0.333	anger
+encombrement	0.333	anger
+la sorcellerie	0.333	anger
+paralysé	0.333	anger
+mauvais	0.333	anger
+interrompre	0.333	anger
+scorpion	0.333	anger
+pécheur	0.331	anger
+ponton	0.329	anger
+inconsidéré	0.329	anger
+disqualifié	0.328	anger
+serrer	0.328	anger
+adversaire	0.328	anger
+faux	0.328	anger
+résister	0.328	anger
+mensonge	0.328	anger
+spammeurs	0.328	anger
+disloqué	0.328	anger
+brrr	0.328	anger
+précipité	0.328	anger
+interdit	0.328	anger
+grincheux	0.328	anger
+victime	0.328	anger
+croisade	0.328	anger
+bouc émissaire	0.328	anger
+sifflement	0.328	anger
+inapproprié	0.324	anger
+haye	0.324	anger
+perte	0.324	anger
+éviter	0.324	anger
+négligé	0.324	anger
+tromperie	0.324	anger
+chancre	0.323	anger
+croquer	0.318	anger
+critique	0.318	anger
+les files d'attente	0.318	anger
+duplicité	0.318	anger
+manchon	0.318	anger
+cri	0.316	anger
+déprécier	0.315	anger
+dramaqueen	0.312	anger
+négligence	0.312	anger
+décharges	0.312	anger
+dupe	0.312	anger
+balle	0.312	anger
+la pauvreté	0.312	anger
+mortalité	0.312	anger
+congédiement	0.312	anger
+dégonfler	0.312	anger
+revving	0.309	anger
+interdit	0.308	anger
+bruyant	0.307	anger
+irréfléchi	0.307	anger
+enterrement	0.304	anger
+renfrogné	0.303	anger
+théocratique	0.303	anger
+grimacer	0.303	anger
+involution	0.3	anger
+impasse	0.297	anger
+serres	0.297	anger
+canular	0.297	anger
+déprécié	0.297	anger
+gaspilleur	0.297	anger
+se rendre chez vous	0.297	anger
+insensé	0.297	anger
+déprimé	0.297	anger
+taxé	0.297	anger
+abuser	0.297	anger
+paralysie	0.295	anger
+déplacé	0.294	anger
+limité	0.292	anger
+déception	0.29	anger
+orc	0.289	anger
+ridicule	0.289	anger
+colonne vertébrale	0.288	anger
+aiguiser	0.288	anger
+présomptueux	0.288	anger
+taquineries	0.288	anger
+sans abri	0.288	anger
+réagir	0.288	anger
+barrière	0.287	anger
+huée	0.287	anger
+nerveux	0.287	anger
+myopie	0.283	anger
+incompatible	0.281	anger
+déconnecte	0.281	anger
+délinquant	0.281	anger
+contrebande	0.281	anger
+en retard	0.281	anger
+frisson	0.281	anger
+agh	0.281	anger
+restitution	0.281	anger
+flexin	0.281	anger
+spam	0.281	anger
+incursion	0.279	anger
+non conformité	0.279	anger
+mise en mémoire tampon	0.279	anger
+injustice	0.279	anger
+troll	0.279	anger
+bas	0.278	anger
+immaturité	0.273	anger
+indifférent	0.273	anger
+bugaboo	0.273	anger
+faux	0.273	anger
+choc	0.269	anger
+courageux	0.269	anger
+rap	0.266	anger
+pas de point	0.266	anger
+féminisme	0.266	anger
+faire levier	0.266	anger
+fumisterie	0.266	anger
+inopérant	0.266	anger
+défendeur	0.266	anger
+latent	0.266	anger
+notamorningperson	0.266	anger
+dilemme	0.266	anger
+incommode	0.266	anger
+ours	0.266	anger
+des interruptions	0.265	anger
+fluctuation	0.265	anger
+exagérer	0.263	anger
+perdre	0.261	anger
+pierre	0.258	anger
+soldat	0.258	anger
+fourneau	0.258	anger
+vol à l'étalage	0.258	anger
+taquiner	0.258	anger
+crépiter	0.258	anger
+incompétent	0.257	anger
+endoctrinement	0.255	anger
+demandeur d'attention	0.25	anger
+ne plus suivre	0.25	anger
+absurdité	0.25	anger
+compliquer	0.25	anger
+faire trébucher	0.25	anger
+faux	0.25	anger
+notoriété	0.25	anger
+mensonge	0.25	anger
+la maîtrise	0.25	anger
+socialiste	0.25	anger
+déraper	0.25	anger
+fusée	0.25	anger
+bruyant	0.25	anger
+avocat	0.25	anger
+faire la moue	0.25	anger
+canne	0.25	anger
+clôturé	0.242	anger
+obstacle	0.242	anger
+ne comprend pas	0.242	anger
+diminuer	0.242	anger
+licou	0.242	anger
+vampire	0.242	anger
+verrouillage des majuscules	0.242	anger
+sorcière	0.242	anger
+sonnerie	0.242	anger
+renfrogné	0.239	anger
+sabre	0.238	anger
+faim	0.235	anger
+tarif	0.234	anger
+lave	0.234	anger
+barboter	0.234	anger
+coquille	0.234	anger
+j'essaie de dormir	0.234	anger
+coquin	0.234	anger
+récession	0.234	anger
+échouer	0.234	anger
+politique	0.234	anger
+m'a réveillé	0.234	anger
+indésirable	0.231	anger
+contre	0.227	anger
+imitateur	0.227	anger
+ténèbres	0.227	anger
+démissionner	0.227	anger
+trempé	0.226	anger
+insatisfait	0.225	anger
+abandonné	0.222	anger
+inaccessible	0.221	anger
+dû	0.221	anger
+la faillite	0.221	anger
+confusion	0.219	anger
+directeur	0.219	anger
+quelque chose	0.219	anger
+outil	0.219	anger
+compresse	0.219	anger
+idée fausse	0.219	anger
+pleurnichard	0.219	anger
+peu serviable	0.219	anger
+moustique	0.219	anger
+tremblements	0.219	anger
+curieux	0.213	anger
+additionneur	0.212	anger
+trop cher	0.212	anger
+pénurie	0.212	anger
+mélodrame	0.212	anger
+harry	0.212	anger
+possession	0.206	anger
+trop joué	0.206	anger
+désert	0.206	anger
+malchanceux	0.203	anger
+non payé	0.203	anger
+colonne vertébrale	0.203	anger
+impuissant	0.203	anger
+phrase	0.203	anger
+sans invitation	0.203	anger
+tour	0.203	anger
+moue	0.203	anger
+accusation	0.203	anger
+inefficace	0.203	anger
+tribunal	0.199	anger
+interminable	0.198	anger
+déclaration inexacte	0.197	anger
+retard	0.197	anger
+distraits	0.197	anger
+annonces	0.197	anger
+malentendu	0.195	anger
+inadmissible	0.191	anger
+exciter	0.191	anger
+foudre	0.189	anger
+triste	0.188	anger
+empêcher	0.188	anger
+au cas où	0.188	anger
+peu sûr	0.188	anger
+évaluation	0.182	anger
+demandeur	0.182	anger
+maîtresse	0.182	anger
+insister	0.182	anger
+rogner	0.182	anger
+distrayant	0.182	anger
+murmurer	0.182	anger
+opium	0.18	anger
+délibéré	0.176	anger
+mériter	0.176	anger
+insiste	0.175	anger
+traiter	0.175	anger
+libérer	0.172	anger
+peice	0.172	anger
+excitation	0.172	anger
+égarer	0.172	anger
+hormonal	0.172	anger
+puissant	0.172	anger
+merci beaucoup	0.172	anger
+indécis	0.172	anger
+frais	0.172	anger
+charabia	0.172	anger
+toison	0.172	anger
+japper	0.168	anger
+tendon	0.167	anger
+mule	0.167	anger
+insuffisance	0.167	anger
+insignifiant	0.167	anger
+inégal	0.167	anger
+marchandage	0.167	anger
+attentioncherekers	0.163	anger
+avant bras	0.156	anger
+indifférence	0.156	anger
+coopérative	0.156	anger
+rhumatisme	0.156	anger
+avocat	0.152	anger
+incertain	0.152	anger
+juste le commencement	0.152	anger
+désinformation	0.152	anger
+prétendre	0.152	anger
+participation	0.152	anger
+sous-payés	0.152	anger
+abeille	0.152	anger
+faire campagne	0.151	anger
+désespoir	0.149	anger
+sentiment	0.147	anger
+légalisé	0.145	anger
+mise en garde	0.145	anger
+sterling	0.141	anger
+obligeant	0.141	anger
+subvention	0.141	anger
+morale	0.141	anger
+wimpy	0.14	anger
+bummer	0.139	anger
+bon sang	0.136	anger
+rembourser	0.136	anger
+défaut	0.136	anger
+mal orthographier	0.136	anger
+surtaxe	0.136	anger
+salon	0.136	anger
+bouleau	0.135	anger
+noob	0.133	anger
+klaxonner	0.133	anger
+orchestre	0.132	anger
+sans fil	0.125	anger
+arrêt	0.125	anger
+compétitif	0.125	anger
+mosquée	0.122	anger
+inattention	0.121	anger
+renversement	0.121	anger
+dentelle	0.118	anger
+coude	0.117	anger
+instinctif	0.112	anger
+chant	0.111	anger
+solitaire	0.109	anger
+gnome	0.109	anger
+tolérer	0.106	anger
+la gestion	0.102	anger
+plaidoyer	0.1	anger
+moral	0.094	anger
+travaux	0.091	anger
+honnête	0.087	anger
+gentil	0.076	anger
+oublieux	0.076	anger
+alcool	0.075	anger
+argent	0.074	anger
+capuche	0.071	anger
+programme d'études	0.063	anger
+mots	0.062	anger
+elfe	0.061	anger
+odeur	0.061	anger
+opéra	0.061	anger
+espiègle	0.061	anger
+conseiller	0.059	anger
+trompette	0.059	anger
+nourrir	0.059	anger
+asleeep	0.059	anger
+lieu de naissance	0.051	anger
+ruban	0.047	anger
+jeunesse	0.045	anger
+vote	0.045	anger
+en espèces	0.039	anger
+je veux dormir	0.031	anger
+gaufre	0.03	anger
+dame	0.03	anger
+buffet	0.029	anger
+célébrité	0.026	anger
+la fraternité	0.015	anger
+correction automatique	0.015	anger
+musical	0.011	anger
+arbre	0	anger
+torture	0.984	fear
+terroriste	0.972	fear
+horrible	0.969	fear
+terrorisme	0.969	fear
+les terroristes	0.969	fear
+suicide	0.967	fear
+tuer	0.962	fear
+homicide	0.959	fear
+la terreur	0.953	fear
+meurtrier	0.953	fear
+catastrophe	0.953	fear
+annihiler	0.953	fear
+mourant	0.948	fear
+guerre	0.942	fear
+bombardement	0.938	fear
+bombe	0.935	fear
+missiles	0.934	fear
+horreur	0.923	fear
+horrifié	0.922	fear
+terroriser	0.922	fear
+brutalité	0.922	fear
+sanguinaire	0.922	fear
+meurtrier	0.92	fear
+massacre	0.911	fear
+effroyable	0.906	fear
+mutilation	0.906	fear
+assassiner	0.906	fear
+terrifiant	0.906	fear
+fatalité	0.906	fear
+les horreurs	0.906	fear
+démon	0.906	fear
+meurtre	0.906	fear
+dévastation	0.906	fear
+meurtre	0.906	fear
+terrifié	0.906	fear
+holocauste	0.906	fear
+suicidaire	0.898	fear
+enlever	0.891	fear
+crucifixion	0.891	fear
+abattage	0.891	fear
+agression	0.891	fear
+condamné	0.888	fear
+empoisonné	0.886	fear
+suicide	0.879	fear
+explosion	0.879	fear
+catastrophique	0.875	fear
+démembrement	0.875	fear
+annihilation	0.875	fear
+sauvagerie	0.875	fear
+mortel	0.875	fear
+abattage	0.875	fear
+suffocation	0.875	fear
+catastrophe	0.875	fear
+menaçant	0.875	fear
+assassin	0.875	fear
+râpé	0.87	fear
+enfer	0.86	fear
+abattoir	0.859	fear
+guillotine	0.859	fear
+explosif	0.859	fear
+annihilé	0.859	fear
+démoniaque	0.859	fear
+je déteste les araignées	0.859	fear
+effusion de sang	0.859	fear
+crainte	0.859	fear
+homicide	0.859	fear
+barbare	0.859	fear
+anthrax	0.859	fear
+attentat à la pudeur	0.859	fear
+guerre	0.859	fear
+péril	0.859	fear
+la tragédie	0.859	fear
+attaquer	0.859	fear
+paralysé	0.859	fear
+bourreau	0.859	fear
+suffocant	0.858	fear
+traîtrise	0.856	fear
+la frayeur	0.853	fear
+apocalypse	0.844	fear
+bombardement	0.844	fear
+peur	0.844	fear
+effrayant	0.844	fear
+effrayé	0.844	fear
+le plus effrayant	0.844	fear
+paniqué	0.844	fear
+morgue	0.844	fear
+traumatique	0.844	fear
+exécution	0.844	fear
+monstre	0.844	fear
+vengeance	0.844	fear
+détruire	0.844	fear
+tueur	0.844	fear
+abomination	0.844	fear
+douloureux	0.844	fear
+noyer	0.844	fear
+pétrifié	0.844	fear
+effrayer	0.844	fear
+mort	0.843	fear
+le chaos	0.839	fear
+horrible	0.836	fear
+mal	0.833	fear
+exploser	0.828	fear
+diable	0.828	fear
+fatal	0.828	fear
+jour du jugement dernier	0.828	fear
+condamner	0.828	fear
+effrayer	0.828	fear
+cancer	0.828	fear
+peur	0.828	fear
+cauchemar	0.828	fear
+homicide involontaire	0.828	fear
+traumatisme	0.828	fear
+éradication	0.828	fear
+des hommes armés	0.828	fear
+intrus	0.828	fear
+brutal	0.828	fear
+violemment	0.828	fear
+grenade	0.828	fear
+atroce	0.828	fear
+assassinat	0.828	fear
+kidnappé	0.828	fear
+paralyser	0.828	fear
+morbidité	0.82	fear
+paralysant	0.817	fear
+sauvage	0.814	fear
+la violence	0.812	fear
+destructeur	0.812	fear
+écrasé	0.812	fear
+souffrance	0.812	fear
+violent	0.812	fear
+attaque cardiaque	0.812	fear
+damnation	0.812	fear
+toxique	0.812	fear
+agresseur	0.812	fear
+tremblement de terre	0.812	fear
+tournage	0.812	fear
+tremblement de terre	0.812	fear
+affreux	0.812	fear
+ouragan	0.811	fear
+détenu	0.811	fear
+exterminer	0.81	fear
+craignant	0.808	fear
+hémorragie	0.807	fear
+tourmenter	0.806	fear
+mortel	0.806	fear
+venin	0.804	fear
+claustrophobie	0.803	fear
+serpents	0.802	fear
+danger	0.802	fear
+vol	0.8	fear
+exorcisme	0.8	fear
+effacé	0.8	fear
+terrifie	0.798	fear
+extermination	0.797	fear
+nocif	0.797	fear
+incurable	0.797	fear
+poison	0.797	fear
+cruauté	0.797	fear
+plus grande peur	0.797	fear
+mortalité	0.797	fear
+monstruosité	0.797	fear
+destruction	0.797	fear
+persécution	0.797	fear
+crise d'angoisse	0.797	fear
+attaque	0.797	fear
+hystérie	0.797	fear
+bombardiers	0.797	fear
+cyanure	0.797	fear
+terriblement	0.796	fear
+incendie volontaire	0.794	fear
+dévaster	0.792	fear
+tyran	0.788	fear
+crimes de guerre	0.785	fear
+périr	0.784	fear
+craignait	0.782	fear
+en hurlant	0.781	fear
+maniaque	0.781	fear
+paniquer	0.781	fear
+sanglant	0.781	fear
+venimeux	0.781	fear
+déchaînement	0.781	fear
+esclave	0.781	fear
+belliqueux	0.781	fear
+sans vie	0.781	fear
+serpent	0.776	fear
+épidémie	0.776	fear
+panicattaque	0.774	fear
+dangereusement	0.766	fear
+envahisseur	0.766	fear
+crise	0.766	fear
+exploser	0.766	fear
+hasardeux	0.766	fear
+jihad	0.766	fear
+mourir	0.766	fear
+effrayant	0.766	fear
+envahir	0.766	fear
+représailles	0.766	fear
+effacer	0.766	fear
+émeute	0.766	fear
+criminel	0.766	fear
+tumeur	0.766	fear
+violation	0.766	fear
+craintif	0.766	fear
+enfer	0.766	fear
+oh merde	0.766	fear
+naufrage	0.766	fear
+lèpre	0.766	fear
+claustrophobe	0.765	fear
+hyperventiler	0.762	fear
+cauchemars	0.759	fear
+détruit	0.754	fear
+fantomatique	0.754	fear
+les ouragans	0.75	fear
+tyrannie	0.75	fear
+panique	0.75	fear
+ptsd	0.75	fear
+dangereux	0.75	fear
+étrangler	0.75	fear
+tragédies	0.75	fear
+déchirant	0.75	fear
+danger	0.75	fear
+destructeur	0.75	fear
+projectiles	0.75	fear
+choléra	0.75	fear
+oblitération	0.75	fear
+esclavage	0.75	fear
+emprisonnement	0.75	fear
+agonie	0.75	fear
+anaconda	0.75	fear
+anarchiste	0.75	fear
+perfide	0.75	fear
+séditieux	0.75	fear
+mortuaire	0.75	fear
+horrible	0.75	fear
+anarchie	0.75	fear
+peurs	0.75	fear
+accident	0.75	fear
+malignité	0.742	fear
+bombarder	0.74	fear
+cannibale	0.74	fear
+abominable	0.738	fear
+tyrannique	0.734	fear
+dépravé	0.734	fear
+mutinerie	0.734	fear
+effrayé	0.734	fear
+dictature	0.734	fear
+la bête	0.734	fear
+missile	0.734	fear
+maudit	0.734	fear
+mêlée	0.734	fear
+menacer	0.734	fear
+otage	0.734	fear
+malade	0.734	fear
+sang	0.734	fear
+diabolique	0.734	fear
+malin	0.734	fear
+misère	0.734	fear
+horrible	0.734	fear
+coup	0.734	fear
+bombardier	0.734	fear
+hyperventiler	0.734	fear
+crash	0.734	fear
+pistolet	0.734	fear
+tirer	0.734	fear
+victime	0.734	fear
+paralysie	0.734	fear
+mafia	0.734	fear
+tornade	0.734	fear
+la tourmente	0.733	fear
+combat	0.728	fear
+alligator	0.727	fear
+se ruiner	0.725	fear
+tireur	0.722	fear
+contagieux	0.72	fear
+fausse couche	0.719	fear
+lyncher	0.719	fear
+désespoir	0.719	fear
+victime	0.719	fear
+dévastateur	0.719	fear
+saisie	0.719	fear
+famine	0.719	fear
+atroce	0.719	fear
+phobie	0.719	fear
+nuire	0.719	fear
+la criminalité	0.719	fear
+urgence	0.719	fear
+choc	0.719	fear
+bats toi	0.719	fear
+blessé	0.719	fear
+crier	0.719	fear
+lutte	0.719	fear
+ravage	0.719	fear
+mortification	0.719	fear
+frénétiquement	0.717	fear
+carnage	0.717	fear
+impasse	0.716	fear
+infestation	0.716	fear
+si effrayant	0.712	fear
+paniquer	0.708	fear
+rupture	0.706	fear
+frénétique	0.705	fear
+affreux	0.705	fear
+enterrement	0.703	fear
+arsenic	0.703	fear
+névrosé	0.703	fear
+carcinome	0.703	fear
+la sorcellerie	0.703	fear
+hystérique	0.703	fear
+dérangé	0.703	fear
+proie	0.703	fear
+infectieux	0.703	fear
+agresseur	0.703	fear
+sabotage	0.703	fear
+psychose	0.703	fear
+haine	0.703	fear
+terminal	0.703	fear
+effondrer	0.703	fear
+angoisse	0.703	fear
+macabre	0.703	fear
+diabolique	0.703	fear
+avalanche	0.703	fear
+redouté	0.703	fear
+entaille	0.703	fear
+sos	0.703	fear
+agressif	0.703	fear
+malveillant	0.703	fear
+angoissant	0.703	fear
+cobra	0.703	fear
+poignant	0.703	fear
+fugitif	0.703	fear
+détruit	0.703	fear
+armé	0.703	fear
+paralyser	0.703	fear
+paniqué	0.703	fear
+schizophrénie	0.703	fear
+peste	0.703	fear
+bouleversement	0.703	fear
+vengeance	0.703	fear
+de force	0.7	fear
+enlèvement	0.7	fear
+crocodile	0.7	fear
+délinquant	0.698	fear
+grabuge	0.69	fear
+blessant	0.688	fear
+maladie	0.688	fear
+agoraphobie	0.688	fear
+bagarre	0.688	fear
+bannir	0.688	fear
+oppression	0.688	fear
+hostile	0.688	fear
+guérilla	0.688	fear
+cyclone	0.688	fear
+radiation	0.688	fear
+désespéré	0.688	fear
+embuscade	0.688	fear
+bestial	0.688	fear
+shrapnel	0.688	fear
+anxiété sociale	0.688	fear
+cadavre	0.688	fear
+leucémie	0.688	fear
+enragé	0.688	fear
+mettre en danger	0.688	fear
+contagion	0.688	fear
+anarchisme	0.688	fear
+blesser	0.688	fear
+inquiétude	0.688	fear
+sanglant	0.688	fear
+paranoïaque	0.688	fear
+alarme	0.688	fear
+explosion	0.688	fear
+potence	0.686	fear
+cercueil	0.684	fear
+la démence	0.675	fear
+effrayer	0.673	fear
+fureur	0.672	fear
+terrible	0.672	fear
+victime	0.672	fear
+fantôme	0.672	fear
+tremblant	0.672	fear
+plus effrayant	0.672	fear
+poignarder	0.672	fear
+vipère	0.672	fear
+épave nerveuse	0.672	fear
+tarentule	0.672	fear
+voyou	0.672	fear
+cachot	0.672	fear
+carcasse	0.672	fear
+effrayé	0.672	fear
+vermine	0.672	fear
+criminel	0.672	fear
+atrocité	0.672	fear
+crocs	0.672	fear
+des militants	0.672	fear
+périr	0.672	fear
+milice	0.672	fear
+sinistre	0.672	fear
+déclenchement	0.672	fear
+odieux	0.672	fear
+abuser de	0.672	fear
+frankenstorm	0.672	fear
+sinistre	0.672	fear
+menace	0.672	fear
+blesser	0.672	fear
+gang	0.672	fear
+écrasement	0.672	fear
+combattant	0.672	fear
+éruption	0.672	fear
+briser	0.672	fear
+persécuter	0.672	fear
+revolver	0.672	fear
+blessure	0.672	fear
+mutiler	0.672	fear
+tellement peur	0.672	fear
+menaçant	0.672	fear
+désolation	0.667	fear
+féroce	0.667	fear
+battu	0.667	fear
+égorgé	0.664	fear
+pandémie	0.664	fear
+volcan	0.663	fear
+fait peur	0.66	fear
+cruellement	0.658	fear
+infâme	0.656	fear
+craintivement	0.656	fear
+purgatoire	0.656	fear
+despotique	0.656	fear
+tumulte	0.656	fear
+mal intentionné	0.656	fear
+emetophobia	0.656	fear
+l'automutilation	0.656	fear
+fou	0.656	fear
+brute	0.656	fear
+typhon	0.656	fear
+xénophobie	0.656	fear
+trahison	0.656	fear
+oppressif	0.656	fear
+champ de bataille	0.656	fear
+dictateur	0.656	fear
+fracasser	0.656	fear
+radioactif	0.656	fear
+empiètement	0.656	fear
+accident vasculaire cérébral	0.656	fear
+traitre	0.656	fear
+blizzard	0.656	fear
+coma	0.656	fear
+cruel	0.656	fear
+en voie de disparition	0.656	fear
+armement	0.656	fear
+impitoyable	0.656	fear
+châtiment	0.656	fear
+merde	0.656	fear
+névrose	0.656	fear
+débauche	0.656	fear
+araignée	0.656	fear
+détresse	0.656	fear
+alarmant	0.656	fear
+vengeance	0.656	fear
+fou	0.656	fear
+insensé	0.656	fear
+projectile	0.654	fear
+fouetter	0.653	fear
+coup	0.652	fear
+une rançon	0.644	fear
+criminalité	0.642	fear
+pendaison	0.641	fear
+détériorer	0.641	fear
+démence	0.641	fear
+puni	0.641	fear
+perturbation	0.641	fear
+hanter	0.641	fear
+les rapaces	0.641	fear
+avortement	0.641	fear
+désespoir	0.641	fear
+cantbreathe	0.641	fear
+scélérat	0.641	fear
+isolé	0.641	fear
+frémissant	0.641	fear
+contrainte	0.641	fear
+redoutant	0.641	fear
+ciblé	0.641	fear
+serpent à sonnette	0.641	fear
+disparition	0.641	fear
+démoniste	0.641	fear
+périlleux	0.641	fear
+lâche	0.641	fear
+rage	0.641	fear
+préjudiciable	0.641	fear
+intimider	0.641	fear
+conflit	0.641	fear
+incendies	0.641	fear
+épave	0.641	fear
+tumeur	0.641	fear
+représailles	0.641	fear
+véhément	0.641	fear
+dément	0.641	fear
+hideux	0.641	fear
+banshee	0.641	fear
+antéchrist	0.641	fear
+atterré	0.641	fear
+bestial	0.639	fear
+serpent	0.638	fear
+condamnation	0.637	fear
+corrosif	0.636	fear
+armement	0.636	fear
+feu	0.636	fear
+exclusion	0.636	fear
+nervosité	0.627	fear
+s'emparer de	0.625	fear
+pneumonie	0.625	fear
+les araignées	0.625	fear
+révoltant	0.625	fear
+vampire	0.625	fear
+mercenaire	0.625	fear
+sarcome	0.625	fear
+incarcération	0.625	fear
+maniaque	0.625	fear
+blesser	0.625	fear
+contrebandier	0.625	fear
+peste	0.625	fear
+nuisible	0.625	fear
+étourdi	0.625	fear
+vengeur	0.625	fear
+irréparable	0.625	fear
+folie	0.625	fear
+tonnerre	0.625	fear
+défiguré	0.625	fear
+artillerie	0.625	fear
+incendiaire	0.625	fear
+démon	0.625	fear
+déchirant	0.625	fear
+turbulent	0.625	fear
+glissement de terrain	0.625	fear
+malice	0.625	fear
+ennemi	0.625	fear
+combatif	0.625	fear
+écœurant	0.625	fear
+répression	0.625	fear
+infection	0.625	fear
+méchant	0.625	fear
+inhumain	0.625	fear
+effondrement	0.625	fear
+prison	0.625	fear
+ruineux	0.625	fear
+fou	0.625	fear
+virulence	0.625	fear
+mauvais	0.621	fear
+barbare	0.62	fear
+combattu	0.615	fear
+plomb	0.613	fear
+chantage	0.612	fear
+bourreau	0.61	fear
+contaminé	0.61	fear
+sombre	0.61	fear
+sans merci	0.609	fear
+battement	0.609	fear
+agression	0.609	fear
+injection	0.609	fear
+aliénation	0.609	fear
+insurmontable	0.609	fear
+poignard	0.609	fear
+incendie	0.609	fear
+boucher	0.609	fear
+paludisme	0.609	fear
+interrogatoire	0.609	fear
+despotisme	0.609	fear
+colère	0.609	fear
+poursuivre	0.609	fear
+désintégrer	0.609	fear
+manille	0.609	fear
+oubli	0.609	fear
+sans abri	0.609	fear
+victime	0.609	fear
+rob	0.609	fear
+ogre	0.609	fear
+oppresseur	0.609	fear
+abandon	0.609	fear
+déplorable	0.609	fear
+blessant	0.609	fear
+maladie	0.609	fear
+saignement	0.609	fear
+infanticide	0.609	fear
+fléau	0.609	fear
+menace	0.604	fear
+armes à feu	0.6	fear
+nerfs	0.6	fear
+raid	0.6	fear
+expulsion	0.596	fear
+scélérat	0.595	fear
+torrent	0.594	fear
+martèlement	0.594	fear
+brume	0.594	fear
+cardiomyopathie	0.594	fear
+infidèle	0.594	fear
+tromperie	0.594	fear
+possédé	0.594	fear
+dragon	0.594	fear
+terrible	0.594	fear
+belligérant	0.594	fear
+restreint	0.594	fear
+lutin	0.594	fear
+hypertrophie	0.594	fear
+paranoïa	0.594	fear
+tribulations	0.594	fear
+fuir	0.594	fear
+bombardement	0.594	fear
+masochisme	0.594	fear
+tremblement	0.594	fear
+cambrioleur	0.594	fear
+maladie	0.594	fear
+anxiété	0.594	fear
+douleur	0.594	fear
+état septique	0.594	fear
+euthanasie	0.594	fear
+présage	0.594	fear
+ennemi	0.594	fear
+de mauvais augure	0.594	fear
+chargé	0.594	fear
+condamné	0.594	fear
+pourrir	0.594	fear
+cercueil	0.594	fear
+maudit	0.594	fear
+foudre	0.594	fear
+infâme	0.594	fear
+blessés	0.592	fear
+élimination	0.588	fear
+lave	0.588	fear
+donner une fessée	0.587	fear
+hostilités	0.586	fear
+lugubre	0.584	fear
+blocus	0.582	fear
+coup de poing	0.58	fear
+hanté	0.578	fear
+angine	0.578	fear
+affliction	0.578	fear
+dépossédé	0.578	fear
+tumultueux	0.578	fear
+quarantaine	0.578	fear
+profanation	0.578	fear
+lâche	0.578	fear
+troubles de l'alimentation	0.578	fear
+grisonnant	0.578	fear
+démoralisé	0.578	fear
+inquiéter	0.578	fear
+malédiction	0.578	fear
+privation	0.578	fear
+frémir	0.578	fear
+les bactéries	0.578	fear
+peiné	0.578	fear
+vol	0.578	fear
+échec	0.578	fear
+tellement stressé	0.578	fear
+odieux	0.578	fear
+interdiction	0.578	fear
+reculer	0.578	fear
+parasite	0.578	fear
+perte	0.578	fear
+abîme	0.578	fear
+chirurgie	0.578	fear
+volatilité	0.578	fear
+inquiet	0.578	fear
+confiné	0.578	fear
+se disputer	0.578	fear
+péril	0.578	fear
+ombragé	0.578	fear
+prison	0.578	fear
+terrible	0.578	fear
+évacuer	0.578	fear
+assaillir	0.578	fear
+perdition	0.577	fear
+foule	0.577	fear
+toxine	0.575	fear
+impie	0.575	fear
+comateux	0.575	fear
+pillage	0.574	fear
+inceste	0.571	fear
+blessure	0.571	fear
+forcé	0.569	fear
+lâcheté	0.567	fear
+domination	0.566	fear
+crypte	0.566	fear
+sorcière	0.565	fear
+passer en contrebande	0.565	fear
+des soucis	0.562	fear
+banni	0.562	fear
+purge	0.562	fear
+infliger	0.562	fear
+des masques	0.562	fear
+affliger	0.562	fear
+sacrifices	0.562	fear
+détérioration	0.562	fear
+eeek	0.562	fear
+poudre à canon	0.562	fear
+malheur	0.562	fear
+ulcère	0.562	fear
+incube	0.562	fear
+appréhender	0.562	fear
+procès	0.562	fear
+pénible	0.562	fear
+prisonnier	0.562	fear
+frousse	0.562	fear
+corrompre	0.562	fear
+débattre	0.562	fear
+martyr	0.562	fear
+travestir	0.562	fear
+duel	0.562	fear
+piège	0.562	fear
+évasion	0.562	fear
+irrésistible	0.562	fear
+disparu	0.562	fear
+imminent	0.562	fear
+risqué	0.562	fear
+martyre	0.562	fear
+épouvantable	0.562	fear
+syncope	0.562	fear
+polio	0.562	fear
+risque	0.562	fear
+confiner	0.562	fear
+la tombe	0.562	fear
+turbulence	0.562	fear
+dégradant	0.562	fear
+punir	0.562	fear
+impuissant	0.562	fear
+incrimination	0.562	fear
+freak	0.562	fear
+gale	0.562	fear
+chasseur	0.562	fear
+peu sûr	0.561	fear
+péché	0.56	fear
+la pire sensation	0.56	fear
+auteur	0.56	fear
+occulte	0.559	fear
+intimidation	0.559	fear
+désactiver	0.558	fear
+pourriture	0.557	fear
+affliction	0.557	fear
+autopsie	0.557	fear
+vulnérabilité	0.548	fear
+inonder	0.547	fear
+esclavage	0.547	fear
+abhorrer	0.547	fear
+renverser	0.547	fear
+appendicite	0.547	fear
+tollé	0.547	fear
+canon	0.547	fear
+sirène	0.547	fear
+grondement	0.547	fear
+compromettre	0.547	fear
+déformation	0.547	fear
+samouraï	0.547	fear
+névralgie	0.547	fear
+serres	0.547	fear
+sans défense	0.547	fear
+il faut se méfier	0.547	fear
+nuisible	0.547	fear
+asile	0.547	fear
+scorpion	0.547	fear
+explosion	0.547	fear
+dérogation	0.547	fear
+hostilité	0.547	fear
+malade	0.547	fear
+scandale	0.547	fear
+additionneur	0.547	fear
+communisme	0.547	fear
+voleur	0.547	fear
+plonger	0.547	fear
+précaire	0.547	fear
+expulsion	0.547	fear
+furieux	0.547	fear
+brigade	0.547	fear
+des aiguilles	0.547	fear
+folie	0.547	fear
+apparition	0.547	fear
+sénile	0.547	fear
+coercition	0.547	fear
+blennorragie	0.547	fear
+châtiment	0.545	fear
+soulèvement	0.545	fear
+cimetière	0.541	fear
+méchanceté	0.539	fear
+fantôme	0.538	fear
+abandonné	0.534	fear
+fuite	0.534	fear
+rejet	0.533	fear
+rébellion	0.531	fear
+désincarné	0.531	fear
+ravisseur	0.531	fear
+orageux	0.531	fear
+tige	0.531	fear
+querelles	0.531	fear
+sans espoir	0.531	fear
+assujettissement	0.531	fear
+esclave	0.531	fear
+désespoir	0.531	fear
+superstitieux	0.531	fear
+cassé	0.531	fear
+manifestation	0.531	fear
+lâche	0.531	fear
+abandonner	0.531	fear
+déserté	0.531	fear
+discordant	0.531	fear
+frénétique	0.531	fear
+vol	0.531	fear
+bactérie	0.531	fear
+sabre	0.531	fear
+manipula	0.531	fear
+anarchie	0.531	fear
+impuissance	0.531	fear
+pénétration	0.531	fear
+svastika	0.531	fear
+athérosclérose	0.531	fear
+tremblement	0.531	fear
+carnivore	0.531	fear
+effronté	0.531	fear
+sangsues	0.531	fear
+enterré	0.531	fear
+présage	0.531	fear
+endocardite	0.531	fear
+échouer	0.531	fear
+stressé	0.531	fear
+punir	0.531	fear
+instable	0.531	fear
+freakout	0.531	fear
+incursion	0.531	fear
+méfiance	0.531	fear
+le suspense	0.529	fear
+du sang	0.525	fear
+ours	0.524	fear
+cache	0.524	fear
+illicite	0.519	fear
+fou	0.519	fear
+anxieux	0.518	fear
+culte	0.518	fear
+captif	0.517	fear
+déportation	0.517	fear
+détenu	0.516	fear
+imposer	0.516	fear
+suspect	0.516	fear
+opprimer	0.516	fear
+dégoût	0.516	fear
+grave	0.516	fear
+croc	0.516	fear
+exilé	0.516	fear
+insidieux	0.516	fear
+pillage	0.516	fear
+pressentiment	0.516	fear
+intolérance	0.516	fear
+inciter	0.516	fear
+sorcellerie	0.516	fear
+émacié	0.516	fear
+cri	0.516	fear
+éclaté	0.516	fear
+impuissance	0.516	fear
+exacerbation	0.516	fear
+biopsie	0.516	fear
+mauvais pressentiment	0.516	fear
+rechute	0.516	fear
+situation critique	0.516	fear
+grognement	0.516	fear
+gênant	0.516	fear
+chassé	0.516	fear
+embolie	0.516	fear
+ténèbres	0.516	fear
+conspirateur	0.516	fear
+paralysie	0.516	fear
+dureté	0.516	fear
+impensable	0.516	fear
+piquer	0.516	fear
+voleur	0.516	fear
+pernicieux	0.516	fear
+frapper	0.516	fear
+dépression	0.508	fear
+accouchement	0.507	fear
+snowmageddon	0.5	fear
+illégal	0.5	fear
+eeeek	0.5	fear
+imposant	0.5	fear
+intolérant	0.5	fear
+subvertir	0.5	fear
+falaise	0.5	fear
+coupable	0.5	fear
+guêpe	0.5	fear
+réprimer	0.5	fear
+brute	0.5	fear
+interdit	0.5	fear
+suppression	0.5	fear
+ruiné	0.5	fear
+instabilité	0.5	fear
+contrainte	0.5	fear
+odieux	0.5	fear
+chute	0.5	fear
+abandon	0.5	fear
+délirant	0.5	fear
+méfiance	0.5	fear
+alcoolisme	0.5	fear
+goutte	0.5	fear
+frénétique	0.5	fear
+scalpel	0.5	fear
+vertige	0.5	fear
+prier pour moi	0.5	fear
+infarctus	0.5	fear
+défi	0.5	fear
+délicat	0.5	fear
+fou	0.5	fear
+prémédité	0.5	fear
+chasse	0.5	fear
+malheur	0.491	fear
+intrusion	0.484	fear
+corbillard	0.484	fear
+lion	0.484	fear
+armure	0.484	fear
+haine	0.484	fear
+rat	0.484	fear
+seringue	0.484	fear
+ravin	0.484	fear
+endémique	0.484	fear
+noirceur	0.484	fear
+divorce	0.484	fear
+répugnant	0.484	fear
+hallucination	0.484	fear
+diffamation	0.484	fear
+populace	0.484	fear
+ambulance	0.484	fear
+hôpital	0.484	fear
+pire	0.484	fear
+consternation	0.484	fear
+accusation	0.484	fear
+déshonorer	0.484	fear
+braconnage	0.484	fear
+bizarre	0.484	fear
+coupe	0.484	fear
+nerveux	0.484	fear
+insécurité	0.484	fear
+parjure	0.484	fear
+fouetter	0.484	fear
+accusant	0.484	fear
+claquer	0.484	fear
+vorace	0.484	fear
+si nerveux	0.484	fear
+démon	0.484	fear
+palpitations	0.484	fear
+contraindre	0.484	fear
+canthandleit	0.484	fear
+retard	0.484	fear
+fissuré	0.484	fear
+restriction	0.484	fear
+indéfendable	0.484	fear
+partial	0.484	fear
+frisson	0.484	fear
+guerrier	0.484	fear
+inquiétant	0.484	fear
+reculer	0.484	fear
+oh non	0.484	fear
+pécheur	0.483	fear
+opposé	0.483	fear
+inspection	0.483	fear
+désespéré	0.474	fear
+manquant	0.474	fear
+assombrir	0.471	fear
+austère	0.47	fear
+déprimé	0.469	fear
+trembler	0.469	fear
+submergé	0.469	fear
+mauvais pour la santé	0.469	fear
+décomposition	0.469	fear
+mal aux dents	0.469	fear
+saisir	0.469	fear
+infidélité	0.469	fear
+superstition	0.469	fear
+subversion	0.469	fear
+illégalité	0.469	fear
+animosité	0.469	fear
+détenu	0.469	fear
+critiquer	0.469	fear
+révoquer	0.469	fear
+accusé	0.469	fear
+naufrage	0.469	fear
+intrusif	0.469	fear
+inhumain	0.469	fear
+battre	0.469	fear
+conséquences	0.469	fear
+la tremblante	0.469	fear
+féroce	0.469	fear
+frette	0.469	fear
+nerveux	0.469	fear
+panne	0.469	fear
+mâchoires	0.469	fear
+idolâtrie	0.469	fear
+astéroïde	0.469	fear
+fièvre	0.469	fear
+admonition	0.469	fear
+précipice	0.469	fear
+régime	0.469	fear
+blindé	0.469	fear
+accuser	0.469	fear
+surprendre	0.469	fear
+lance	0.468	fear
+préoccupé	0.466	fear
+méchant	0.466	fear
+treizième	0.465	fear
+puma	0.465	fear
+contrebande	0.464	fear
+peu sûr	0.461	fear
+perturbation	0.459	fear
+dénonciation	0.456	fear
+dépourvu	0.455	fear
+stigmate	0.455	fear
+puissamment	0.454	fear
+dérogatoire	0.453	fear
+battre	0.453	fear
+prévenir	0.453	fear
+fusil	0.453	fear
+démissionner	0.453	fear
+dilemme	0.453	fear
+gronder	0.453	fear
+détroits	0.453	fear
+de mauvaise réputation	0.453	fear
+spasme	0.453	fear
+dinosaure	0.453	fear
+restreindre	0.453	fear
+rigueur	0.453	fear
+aigu	0.453	fear
+étranger	0.453	fear
+perturbation	0.453	fear
+appréhension	0.453	fear
+tâtonner	0.453	fear
+lamenter	0.453	fear
+indicible	0.453	fear
+hurler	0.453	fear
+l'hydrocéphalie	0.453	fear
+peine	0.453	fear
+omgomgomg	0.453	fear
+blocage	0.453	fear
+endoctrinement	0.453	fear
+oh mon dieu	0.453	fear
+pénal	0.453	fear
+orphelin	0.453	fear
+résister	0.453	fear
+illicite	0.453	fear
+urgent	0.45	fear
+accusation	0.45	fear
+tramp	0.44	fear
+monstre	0.439	fear
+stress	0.439	fear
+masse	0.438	fear
+obstruer	0.438	fear
+empêtré	0.438	fear
+expulser	0.438	fear
+pervers	0.438	fear
+ciblage	0.438	fear
+disloqué	0.438	fear
+accusateur	0.438	fear
+dentistes	0.438	fear
+hurler	0.438	fear
+aspic	0.438	fear
+confiscation	0.438	fear
+infirmité	0.438	fear
+dominer	0.438	fear
+tribunal	0.438	fear
+aghhh	0.438	fear
+situation difficile	0.438	fear
+égaré	0.438	fear
+imminente	0.438	fear
+débâcle	0.438	fear
+dépouillé	0.438	fear
+indomptable	0.438	fear
+non préparé	0.438	fear
+atrophie	0.438	fear
+sueur froide	0.438	fear
+rhumatisme	0.438	fear
+vaciller	0.438	fear
+irréconciliable	0.438	fear
+cassé	0.438	fear
+rareté	0.438	fear
+imperméable	0.438	fear
+cabale	0.438	fear
+probation	0.438	fear
+grimacer	0.438	fear
+accidentel	0.438	fear
+illégitime	0.438	fear
+halètement	0.438	fear
+caché	0.438	fear
+déplacé	0.438	fear
+piquer	0.438	fear
+les rebelles	0.435	fear
+insultant	0.435	fear
+s'arrêter	0.435	fear
+mystérieux	0.435	fear
+répulsion	0.431	fear
+éblouissement	0.43	fear
+punitif	0.425	fear
+sordide	0.425	fear
+tempête	0.423	fear
+pieu	0.423	fear
+ultimatum	0.422	fear
+infâme	0.422	fear
+réticent	0.422	fear
+dissident	0.422	fear
+coyote	0.422	fear
+délétère	0.422	fear
+usurpé	0.422	fear
+rôder	0.422	fear
+extraterrestre	0.422	fear
+déprimer	0.422	fear
+bière	0.422	fear
+disparaître	0.422	fear
+illusion	0.422	fear
+païen	0.422	fear
+anathème	0.422	fear
+dépresson	0.422	fear
+non naturel	0.422	fear
+suspension	0.422	fear
+stress	0.422	fear
+troll	0.422	fear
+région sauvage	0.422	fear
+pénible	0.422	fear
+infraction	0.422	fear
+hydre	0.422	fear
+publicpeaking	0.422	fear
+baïonnette	0.422	fear
+varicelle	0.422	fear
+complainte	0.422	fear
+extrajudiciaire	0.422	fear
+bigot	0.422	fear
+voler	0.422	fear
+stressant	0.422	fear
+instable	0.422	fear
+battant	0.422	fear
+évanouissement	0.422	fear
+adversité	0.418	fear
+ineptie	0.417	fear
+outsider	0.413	fear
+la laideur	0.41	fear
+vautour	0.41	fear
+immoral	0.41	fear
+cicatrice	0.406	fear
+décombres	0.406	fear
+faiblement	0.406	fear
+affligé	0.406	fear
+la nausée	0.406	fear
+gémissement	0.406	fear
+tendeur	0.406	fear
+congédiement	0.406	fear
+oh cher	0.406	fear
+pénitence	0.406	fear
+omnipotence	0.406	fear
+insolvable	0.406	fear
+échapper	0.406	fear
+résection	0.406	fear
+expulser	0.406	fear
+interdit	0.406	fear
+stressant	0.406	fear
+dégoûter	0.406	fear
+possession	0.406	fear
+ghetto	0.406	fear
+en larmes	0.406	fear
+dominant	0.406	fear
+désordre	0.406	fear
+drones	0.406	fear
+prudent	0.406	fear
+coupure électrique	0.406	fear
+griffe	0.406	fear
+désactivée	0.406	fear
+hurler	0.406	fear
+stressant	0.406	fear
+insouciance	0.406	fear
+bourrasque	0.406	fear
+socialisme	0.405	fear
+conspiration	0.4	fear
+dureté	0.4	fear
+défection	0.398	fear
+absence	0.396	fear
+gémissement	0.394	fear
+croisade	0.392	fear
+la discrimination	0.391	fear
+en évitant	0.391	fear
+dissimulation	0.391	fear
+manifeste	0.391	fear
+théocratique	0.391	fear
+sans emploi	0.391	fear
+la pauvreté	0.391	fear
+soufre	0.391	fear
+kyste	0.391	fear
+radon	0.391	fear
+conquérir	0.391	fear
+troubles	0.391	fear
+séparation	0.391	fear
+soupçon	0.391	fear
+spaz	0.391	fear
+épouvantail	0.391	fear
+endurci	0.391	fear
+réfutation	0.391	fear
+repoussant	0.391	fear
+piège	0.391	fear
+fendre	0.391	fear
+gorgée	0.391	fear
+nerveux	0.391	fear
+soumission	0.391	fear
+procédure	0.391	fear
+que fais-je	0.391	fear
+xanax	0.391	fear
+mousquet	0.391	fear
+descente	0.391	fear
+excitation	0.391	fear
+étouffé	0.391	fear
+perdre	0.391	fear
+diagnostic	0.391	fear
+urgence	0.391	fear
+mental	0.391	fear
+rejeter	0.391	fear
+exigeant	0.391	fear
+insolvabilité	0.391	fear
+douteux	0.391	fear
+orc	0.388	fear
+banni	0.388	fear
+palpiter	0.388	fear
+désapprouver	0.38	fear
+dontpanique	0.378	fear
+retraits	0.377	fear
+plaidoyer	0.377	fear
+kérosène	0.375	fear
+bunker	0.375	fear
+échappé	0.375	fear
+dentisterie	0.375	fear
+raillerie	0.375	fear
+exposer	0.375	fear
+mal	0.375	fear
+barricade	0.375	fear
+faillite	0.375	fear
+froideur	0.375	fear
+frégate	0.375	fear
+interroger	0.375	fear
+pleurer	0.375	fear
+ocd	0.375	fear
+dissolution	0.375	fear
+militaire	0.375	fear
+obi	0.375	fear
+se faufiler	0.375	fear
+chimère	0.375	fear
+criquet	0.375	fear
+embarras	0.375	fear
+santé mentale	0.375	fear
+sultan	0.375	fear
+psychologique	0.375	fear
+soupçonné	0.375	fear
+impatient	0.375	fear
+débiteur	0.375	fear
+khan	0.375	fear
+nauséeux	0.375	fear
+tourbillon	0.375	fear
+idée fausse	0.375	fear
+grippe	0.375	fear
+gouffre	0.375	fear
+décret	0.375	fear
+pression	0.375	fear
+répulsif	0.373	fear
+inconnu	0.369	fear
+rogner	0.367	fear
+jalousie	0.365	fear
+dépréciation	0.359	fear
+mépris	0.359	fear
+gouvernement	0.359	fear
+désert	0.359	fear
+pointe	0.359	fear
+le rebord	0.359	fear
+redoutable	0.359	fear
+examen	0.359	fear
+gaspillage	0.359	fear
+passage	0.359	fear
+sortie	0.359	fear
+sans fond	0.359	fear
+rejette	0.359	fear
+timide	0.359	fear
+burke	0.359	fear
+cabot	0.359	fear
+jaunisse	0.359	fear
+révolution	0.359	fear
+de précaution	0.359	fear
+dard	0.359	fear
+averti	0.359	fear
+pessimisme	0.359	fear
+agresser	0.359	fear
+difficile	0.359	fear
+rougeole	0.359	fear
+consternation	0.359	fear
+rebelle	0.359	fear
+récurrent	0.359	fear
+protestant	0.359	fear
+anomalie	0.359	fear
+maux de tête	0.359	fear
+triste	0.359	fear
+mandamus	0.359	fear
+concerné	0.359	fear
+sectaire	0.359	fear
+conquête	0.359	fear
+la faillite	0.359	fear
+contraindre	0.358	fear
+languissant	0.358	fear
+fléau	0.356	fear
+directeur	0.354	fear
+accuser	0.354	fear
+négatif	0.352	fear
+avocat	0.349	fear
+calomnie	0.348	fear
+retranchement	0.345	fear
+imminent	0.345	fear
+sifflement	0.344	fear
+baissier	0.344	fear
+solitude	0.344	fear
+obstacle	0.344	fear
+la discipline	0.344	fear
+verdict	0.344	fear
+téméraire	0.344	fear
+glas	0.344	fear
+embardée	0.344	fear
+tabou	0.344	fear
+parachute	0.344	fear
+chagrin	0.344	fear
+hésitation	0.344	fear
+servile	0.344	fear
+defier	0.344	fear
+lancements	0.344	fear
+fanatisme	0.344	fear
+aaaaaaah	0.344	fear
+opium	0.344	fear
+la honte	0.344	fear
+résistant	0.344	fear
+précaire	0.344	fear
+anguille	0.344	fear
+opposé	0.344	fear
+mri	0.344	fear
+rabaisser	0.344	fear
+pénurie	0.344	fear
+injustifiable	0.344	fear
+récession	0.344	fear
+coupeur	0.344	fear
+éluder	0.344	fear
+ravageur	0.344	fear
+psych	0.344	fear
+évitement	0.344	fear
+litigieux	0.344	fear
+irrespectueux	0.343	fear
+phalange	0.342	fear
+créature	0.34	fear
+spectre	0.331	fear
+hypothèque	0.331	fear
+énigmatique	0.329	fear
+bugaboo	0.328	fear
+fermer	0.328	fear
+spillin	0.328	fear
+encombrement	0.328	fear
+mise en garde	0.328	fear
+insensé	0.328	fear
+police	0.328	fear
+retirer	0.328	fear
+digue	0.328	fear
+sentiment	0.328	fear
+subalterne	0.328	fear
+annuler	0.328	fear
+indésirable	0.328	fear
+cochonneries	0.328	fear
+défendeur	0.328	fear
+suprématie	0.328	fear
+métier à tisser	0.328	fear
+urticaire	0.328	fear
+mésaventure	0.328	fear
+uhoh	0.328	fear
+bizarre	0.328	fear
+à tort	0.328	fear
+mauviette	0.328	fear
+à la dérive	0.328	fear
+gladiateur	0.328	fear
+avant-poste	0.328	fear
+éthéré	0.328	fear
+domination	0.328	fear
+malchanceux	0.328	fear
+jarret	0.328	fear
+temps de jeu	0.328	fear
+instable	0.327	fear
+rare	0.327	fear
+antisocial	0.324	fear
+égaré	0.32	fear
+vigilant	0.319	fear
+socialiste	0.318	fear
+licou	0.318	fear
+pessimiste	0.317	fear
+le rythme	0.316	fear
+des munitions	0.312	fear
+tourbillon	0.312	fear
+isolement	0.312	fear
+museau	0.312	fear
+tromperie	0.312	fear
+connivence	0.312	fear
+bas	0.312	fear
+méchant	0.312	fear
+inquiet	0.312	fear
+valium	0.312	fear
+dentiste	0.312	fear
+obsédant	0.312	fear
+puissant	0.312	fear
+fourrer	0.312	fear
+épineux	0.312	fear
+plaider	0.312	fear
+rouille	0.312	fear
+thérapeute	0.312	fear
+date limite	0.312	fear
+adversaire	0.312	fear
+ahhhhhhhh	0.312	fear
+wimpy	0.312	fear
+discontinuité	0.312	fear
+clinique	0.312	fear
+étranger	0.312	fear
+facturable	0.312	fear
+conspirer	0.312	fear
+perplexité	0.312	fear
+laxatif	0.312	fear
+inattendu	0.312	fear
+penser trop	0.309	fear
+les doutes	0.308	fear
+gravité	0.305	fear
+irrationnel	0.305	fear
+effacer	0.303	fear
+taquineries	0.303	fear
+rasoir	0.303	fear
+transpiration	0.298	fear
+médical	0.297	fear
+réticent	0.297	fear
+juger	0.297	fear
+timidité	0.297	fear
+déprécié	0.297	fear
+éviter	0.297	fear
+interminable	0.297	fear
+inégalée	0.297	fear
+accroupi	0.297	fear
+déflation	0.297	fear
+attention	0.297	fear
+patauger	0.297	fear
+géant	0.297	fear
+cacher	0.297	fear
+chienne	0.297	fear
+marais	0.297	fear
+auditeur	0.297	fear
+précipité	0.297	fear
+inflation	0.297	fear
+balle	0.297	fear
+lourd	0.297	fear
+tromper	0.297	fear
+mage	0.297	fear
+inonder	0.287	fear
+désinformation	0.286	fear
+tribunal	0.284	fear
+aversion	0.283	fear
+se tromper	0.281	fear
+cartouche	0.281	fear
+prudent	0.281	fear
+fanatique	0.281	fear
+hostile	0.281	fear
+blême	0.281	fear
+surveillance	0.281	fear
+dépêchez-vous	0.281	fear
+confusion	0.281	fear
+soumission	0.281	fear
+en volant	0.281	fear
+défi	0.281	fear
+approche	0.281	fear
+restes	0.281	fear
+pas prêt	0.281	fear
+apache	0.281	fear
+se ruer	0.281	fear
+gonflement	0.281	fear
+japper	0.281	fear
+forteresse	0.281	fear
+nain	0.281	fear
+décourager	0.281	fear
+indiscipliné	0.281	fear
+intense	0.279	fear
+non conformité	0.276	fear
+alertes	0.276	fear
+avions	0.274	fear
+mécontent	0.273	fear
+flic	0.273	fear
+débridé	0.271	fear
+détachement	0.266	fear
+bandeau	0.266	fear
+obliger	0.266	fear
+auditions	0.266	fear
+opération	0.266	fear
+encapuchonné	0.266	fear
+pétard	0.266	fear
+oublié	0.266	fear
+accroupissement	0.266	fear
+des averses de neige	0.266	fear
+shanghai	0.266	fear
+insomnie	0.266	fear
+défaut	0.266	fear
+problème	0.266	fear
+se faufiler	0.266	fear
+nouveau travail	0.266	fear
+étrange	0.266	fear
+capuche	0.266	fear
+régiment	0.266	fear
+élévation	0.266	fear
+manteau	0.266	fear
+immerger	0.266	fear
+confession	0.266	fear
+acrobate	0.266	fear
+ventouses	0.266	fear
+déraper	0.266	fear
+foules	0.266	fear
+ceinture	0.266	fear
+phrase	0.266	fear
+affront	0.266	fear
+éperon	0.262	fear
+débiteur hypothécaire	0.258	fear
+la défense	0.258	fear
+vieille sorcière	0.25	fear
+garde	0.25	fear
+courir	0.25	fear
+cataracte	0.25	fear
+inconnu	0.25	fear
+impatiemment	0.25	fear
+arrêt	0.25	fear
+évaluation	0.25	fear
+coquin	0.25	fear
+prévenu	0.25	fear
+dernières nouvelles	0.25	fear
+doute	0.25	fear
+obligeant	0.25	fear
+faute	0.25	fear
+défendre	0.25	fear
+vieille fille	0.25	fear
+se repentir	0.25	fear
+délirant	0.25	fear
+indécis	0.25	fear
+insecte	0.25	fear
+piquet	0.25	fear
+indifférence	0.25	fear
+coulé	0.25	fear
+entretien d'embauche	0.25	fear
+réagir	0.25	fear
+marécageux	0.25	fear
+bouc émissaire	0.25	fear
+furtif	0.25	fear
+échoué	0.242	fear
+mauvaise habitude	0.242	fear
+plus haut	0.236	fear
+intercéder	0.234	fear
+psychiatre	0.234	fear
+mâle	0.234	fear
+insomniaque	0.234	fear
+dépendance	0.234	fear
+échafaud	0.234	fear
+rétrécir	0.234	fear
+raviver	0.234	fear
+surmultipliée	0.234	fear
+abeille	0.234	fear
+sans sommeil	0.234	fear
+inégalité	0.234	fear
+pignon	0.234	fear
+finalisé	0.234	fear
+poulet	0.234	fear
+difficulté	0.234	fear
+instinctif	0.234	fear
+mécontentement	0.234	fear
+des abris	0.234	fear
+bord	0.234	fear
+aaaah	0.234	fear
+bourdonner	0.234	fear
+ce moment	0.234	fear
+se précipiter	0.233	fear
+dormi trop longtemps	0.226	fear
+défaut	0.226	fear
+confessionnal	0.225	fear
+impatient	0.224	fear
+aga	0.219	fear
+inégal	0.219	fear
+jungle	0.219	fear
+frisson	0.219	fear
+appât	0.219	fear
+immigrant	0.219	fear
+vaciller	0.219	fear
+virer	0.219	fear
+dernière minute	0.219	fear
+doigts croisés	0.219	fear
+et qu'est-ce qui se passerait si	0.219	fear
+avare	0.219	fear
+blues	0.219	fear
+tactique	0.219	fear
+révélations	0.219	fear
+transpiration	0.219	fear
+canne	0.219	fear
+soupeser	0.219	fear
+fatigué	0.218	fear
+pronostic	0.217	fear
+vigilance	0.216	fear
+excité	0.214	fear
+souhaite moi bonne chance	0.212	fear
+tant à faire	0.212	fear
+trop à faire	0.212	fear
+essais	0.21	fear
+clowns	0.207	fear
+fluctuation	0.204	fear
+examen	0.204	fear
+agité	0.204	fear
+intimité	0.203	fear
+caille	0.203	fear
+surmonter	0.203	fear
+acceptations	0.203	fear
+naissance	0.203	fear
+phew	0.203	fear
+puissant	0.203	fear
+des recoins	0.203	fear
+montée	0.203	fear
+aidez-moi	0.203	fear
+traverser	0.203	fear
+se dépêcher	0.203	fear
+sans peur	0.2	fear
+changement	0.198	fear
+vaisselle	0.198	fear
+résister	0.197	fear
+au plus vite	0.191	fear
+surmonter	0.188	fear
+jeu de patience	0.188	fear
+intrigue	0.188	fear
+immobilité	0.188	fear
+dû	0.188	fear
+avec prudence	0.188	fear
+regarder	0.188	fear
+avocat	0.188	fear
+punaise	0.188	fear
+fragile	0.188	fear
+non organisé	0.188	fear
+règle	0.188	fear
+avance	0.188	fear
+noeuds	0.188	fear
+tract	0.188	fear
+augmenter	0.188	fear
+gnome	0.188	fear
+délais	0.188	fear
+elfe	0.185	fear
+toujours en attente	0.184	fear
+solitaire	0.183	fear
+glissant	0.181	fear
+entrevue	0.18	fear
+chaque homme	0.178	fear
+spéculation	0.176	fear
+dois savoir	0.173	fear
+surprise	0.172	fear
+droits de l'homme	0.172	fear
+coquille	0.172	fear
+évaluation	0.172	fear
+culte	0.172	fear
+balle	0.172	fear
+calme	0.172	fear
+settlor	0.172	fear
+interviewer	0.172	fear
+incertain	0.172	fear
+concurrence	0.172	fear
+réglementaire	0.172	fear
+prêt à partir	0.172	fear
+bouleau	0.172	fear
+barre	0.172	fear
+point de contrôle	0.172	fear
+incertain	0.172	fear
+moins	0.167	fear
+timide	0.162	fear
+iris	0.16	fear
+intimement	0.156	fear
+sournois	0.156	fear
+audition	0.156	fear
+retraite	0.156	fear
+légalisé	0.156	fear
+des bases	0.156	fear
+cessez-le-feu	0.156	fear
+audition	0.156	fear
+besoin de ça	0.156	fear
+des médicaments	0.156	fear
+compte à rebours	0.156	fear
+courageux	0.154	fear
+trop-pensant	0.153	fear
+revenir en arrière	0.151	fear
+s'est levé	0.15	fear
+censurer	0.149	fear
+huissier	0.147	fear
+programme	0.147	fear
+gentil	0.141	fear
+nouveau venu	0.141	fear
+rationalité	0.141	fear
+imagination	0.141	fear
+crique	0.141	fear
+attendre	0.141	fear
+caricature	0.141	fear
+retard	0.141	fear
+éventualité	0.141	fear
+validité	0.141	fear
+timide	0.14	fear
+déjàyyyyy	0.14	fear
+symptôme	0.133	fear
+exciter	0.132	fear
+raton laveur	0.127	fear
+faire campagne	0.125	fear
+pitre	0.125	fear
+marier	0.125	fear
+jour de jeu	0.125	fear
+faucon	0.125	fear
+si prêt	0.125	fear
+lutin	0.125	fear
+essaie	0.125	fear
+prévenir	0.125	fear
+needtorelax	0.125	fear
+nager	0.125	fear
+ahhh	0.125	fear
+pharmacie	0.123	fear
+affaissement	0.123	fear
+policier	0.121	fear
+rêvé	0.111	fear
+dentelle	0.111	fear
+nœud	0.109	fear
+au cas où	0.109	fear
+sainteté	0.109	fear
+confiance	0.109	fear
+notoriété	0.109	fear
+devoirs	0.109	fear
+grand jour	0.109	fear
+poids	0.109	fear
+prier	0.109	fear
+destination	0.109	fear
+mince	0.1	fear
+indécis	0.098	fear
+sympathique	0.097	fear
+dieu	0.094	fear
+cas	0.094	fear
+sur de soi	0.094	fear
+casque	0.094	fear
+équilibre	0.094	fear
+traiter	0.094	fear
+localiser	0.094	fear
+fidèle	0.094	fear
+grades	0.094	fear
+conseiller	0.094	fear
+au nord-est	0.088	fear
+l'obtention du diplôme	0.078	fear
+la compassion	0.078	fear
+nourrir	0.078	fear
+classé	0.075	fear
+maman	0.07	fear
+bébé	0.067	fear
+jeunesse	0.062	fear
+des civils	0.062	fear
+parade	0.062	fear
+études supérieures	0.062	fear
+en espèces	0.062	fear
+civil	0.062	fear
+nébulosité	0.062	fear
+périple	0.062	fear
+des lignes directrices	0.062	fear
+âme sœur	0.062	fear
+opéra	0.057	fear
+synonyme	0.056	fear
+honnête	0.047	fear
+priant	0.047	fear
+intelligence	0.038	fear
+bénévole	0.031	fear
+lignes	0.031	fear
+romance	0.031	fear
+obéit	0.016	fear
+déchirant	0.969	sadness
+deuil	0.969	sadness
+tragique	0.961	sadness
+holocauste	0.953	sadness
+suicidaire	0.941	sadness
+misère	0.938	sadness
+massacre	0.931	sadness
+euthanasie	0.927	sadness
+dépression	0.925	sadness
+fatal	0.922	sadness
+deuil	0.922	sadness
+en deuil	0.922	sadness
+privé	0.92	sadness
+dévastation	0.917	sadness
+mort	0.915	sadness
+suicide	0.912	sadness
+dévasté	0.912	sadness
+catastrophe	0.911	sadness
+effroyable	0.907	sadness
+la tragédie	0.906	sadness
+décédés	0.906	sadness
+déprimant	0.906	sadness
+angoisse	0.902	sadness
+agonie	0.9	sadness
+mortel	0.898	sadness
+larmes	0.896	sadness
+décédé	0.891	sadness
+mortinaissance	0.891	sadness
+meurtrier	0.877	sadness
+cancer	0.875	sadness
+mourant	0.875	sadness
+râpé	0.875	sadness
+dévastateur	0.875	sadness
+tristesse	0.864	sadness
+morbidité	0.864	sadness
+exécution	0.859	sadness
+abandon	0.859	sadness
+crucifixion	0.859	sadness
+douleur	0.859	sadness
+déprimé	0.859	sadness
+périr	0.859	sadness
+traumatique	0.859	sadness
+atrocité	0.859	sadness
+cadavre	0.853	sadness
+trahi	0.848	sadness
+traîtrise	0.848	sadness
+funéraire	0.844	sadness
+pleurer	0.844	sadness
+meurtrier	0.844	sadness
+misérable	0.844	sadness
+désespoir	0.844	sadness
+persécution	0.844	sadness
+triste	0.844	sadness
+souffrance	0.844	sadness
+chagrin	0.844	sadness
+homicide	0.844	sadness
+abattage	0.844	sadness
+détruit	0.844	sadness
+horrible	0.844	sadness
+le malheur	0.839	sadness
+estropié	0.836	sadness
+effusion de sang	0.836	sadness
+peiné	0.833	sadness
+homicide involontaire	0.833	sadness
+carnage	0.833	sadness
+insupportable	0.83	sadness
+mort-né	0.83	sadness
+tourmenter	0.828	sadness
+impuissance	0.828	sadness
+annihilation	0.828	sadness
+esclavage	0.828	sadness
+annihilé	0.828	sadness
+esclave	0.828	sadness
+victime	0.828	sadness
+les horreurs	0.828	sadness
+meurtre	0.828	sadness
+faire le deuil	0.828	sadness
+morbide	0.828	sadness
+abandonné	0.828	sadness
+maladie	0.828	sadness
+mutilation	0.828	sadness
+fausse couche	0.824	sadness
+famine	0.819	sadness
+cruauté	0.812	sadness
+childloss	0.812	sadness
+disgrâce	0.812	sadness
+meurtre	0.812	sadness
+oppression	0.812	sadness
+terrorisme	0.812	sadness
+échec	0.812	sadness
+famine	0.812	sadness
+chagrin	0.812	sadness
+enterrement	0.812	sadness
+attriste	0.812	sadness
+éperdu	0.812	sadness
+désespoir	0.812	sadness
+malheureusement	0.812	sadness
+triste	0.812	sadness
+sanglant	0.806	sadness
+inhumanité	0.804	sadness
+périr	0.804	sadness
+malignité	0.803	sadness
+mortification	0.802	sadness
+tuer	0.797	sadness
+sans vie	0.797	sadness
+horrible	0.797	sadness
+esclave	0.797	sadness
+désolation	0.797	sadness
+dévaster	0.797	sadness
+périt	0.797	sadness
+assassinat	0.797	sadness
+mortuaire	0.797	sadness
+terriblement	0.797	sadness
+leucémie	0.797	sadness
+sarcome	0.797	sadness
+mortel	0.797	sadness
+potence	0.797	sadness
+coeur brisé	0.792	sadness
+bannissement	0.79	sadness
+affliger	0.789	sadness
+découragé	0.788	sadness
+enterrer	0.781	sadness
+profanation	0.781	sadness
+démoralisé	0.781	sadness
+tumeur	0.781	sadness
+terroriser	0.781	sadness
+pleurs	0.781	sadness
+peine d'amour	0.781	sadness
+mourir	0.773	sadness
+lyncher	0.773	sadness
+victime	0.77	sadness
+solitude	0.766	sadness
+avortement	0.766	sadness
+démembrement	0.766	sadness
+malade	0.766	sadness
+craintif	0.766	sadness
+dépourvu	0.766	sadness
+torture	0.766	sadness
+tueur	0.766	sadness
+cimetière	0.766	sadness
+fatalité	0.766	sadness
+condoléance	0.766	sadness
+condamné	0.766	sadness
+douloureusement	0.758	sadness
+moribond	0.758	sadness
+catastrophe	0.758	sadness
+déprimer	0.755	sadness
+condamnation	0.754	sadness
+victime	0.75	sadness
+oblitération	0.75	sadness
+dépressif	0.75	sadness
+terroriste	0.75	sadness
+culpabilité	0.75	sadness
+inceste	0.75	sadness
+pandémie	0.75	sadness
+malheureux	0.75	sadness
+vaincu	0.75	sadness
+douloureux	0.75	sadness
+déplorable	0.75	sadness
+damnation	0.75	sadness
+jour du jugement dernier	0.75	sadness
+corps	0.75	sadness
+enlèvement	0.75	sadness
+douloureux	0.75	sadness
+de regret	0.75	sadness
+désespoir	0.75	sadness
+cri	0.75	sadness
+écœurant	0.75	sadness
+hémorragie	0.75	sadness
+injustice	0.745	sadness
+attentat à la pudeur	0.744	sadness
+exilé	0.742	sadness
+épouvantable	0.742	sadness
+atroce	0.738	sadness
+exterminer	0.736	sadness
+disgracié	0.734	sadness
+sans abri	0.734	sadness
+détruire	0.734	sadness
+battu	0.734	sadness
+trahison	0.734	sadness
+affreux	0.734	sadness
+guerre	0.734	sadness
+assassin	0.734	sadness
+catastrophique	0.734	sadness
+solitaire	0.734	sadness
+misérablement	0.734	sadness
+morgue	0.734	sadness
+abattage	0.734	sadness
+tremblement de terre	0.734	sadness
+orphelin	0.734	sadness
+indifférent	0.729	sadness
+la tombe	0.727	sadness
+vide	0.727	sadness
+malheureusement	0.727	sadness
+aliéné	0.727	sadness
+chargé	0.722	sadness
+abandonné	0.719	sadness
+lèpre	0.719	sadness
+cr	0.719	sadness
+paralysie	0.719	sadness
+mal intentionné	0.719	sadness
+honteux	0.719	sadness
+malheur	0.719	sadness
+danger	0.719	sadness
+décourageant	0.719	sadness
+sans coeur	0.719	sadness
+violemment	0.719	sadness
+paralyser	0.719	sadness
+horreur	0.719	sadness
+atrophie	0.719	sadness
+manquant	0.719	sadness
+émacié	0.719	sadness
+douleur	0.719	sadness
+disparition	0.717	sadness
+maladif	0.712	sadness
+mécontent	0.712	sadness
+la violence	0.712	sadness
+rejeté	0.712	sadness
+déchiré	0.71	sadness
+calamité	0.709	sadness
+sinistre	0.708	sadness
+grave	0.704	sadness
+corbillard	0.703	sadness
+disparu	0.703	sadness
+écrasé	0.703	sadness
+isolement	0.703	sadness
+effondrement	0.703	sadness
+obit	0.703	sadness
+paralysé	0.703	sadness
+carcinome	0.703	sadness
+suffocant	0.703	sadness
+déformé	0.703	sadness
+inhumain	0.703	sadness
+punir	0.703	sadness
+incurable	0.703	sadness
+étrangler	0.703	sadness
+défiguré	0.703	sadness
+victime	0.703	sadness
+déformation	0.703	sadness
+abattoir	0.703	sadness
+décomposition	0.703	sadness
+humilier	0.703	sadness
+enterré	0.703	sadness
+oppresseur	0.703	sadness
+abandonner	0.703	sadness
+en larmes	0.703	sadness
+isoler	0.703	sadness
+vie des sucres	0.7	sadness
+enfer	0.7	sadness
+ruineux	0.698	sadness
+bannir	0.697	sadness
+ruiné	0.697	sadness
+maudit	0.697	sadness
+veuve	0.697	sadness
+disparu	0.695	sadness
+déplacé	0.691	sadness
+la pauvreté	0.69	sadness
+maladie	0.688	sadness
+désespéré	0.688	sadness
+travestir	0.688	sadness
+déserté	0.688	sadness
+regrettant	0.688	sadness
+perte	0.688	sadness
+pathétique	0.688	sadness
+sans espoir	0.688	sadness
+poignarder	0.688	sadness
+tournage	0.688	sadness
+toujours seul	0.688	sadness
+détenu	0.688	sadness
+folie	0.688	sadness
+nuisible	0.688	sadness
+terminal	0.688	sadness
+épidémie	0.688	sadness
+blesser	0.688	sadness
+dépravé	0.688	sadness
+banni	0.688	sadness
+infidélité	0.688	sadness
+négligé	0.688	sadness
+sanglot	0.688	sadness
+en larmes	0.688	sadness
+démence	0.688	sadness
+veuf	0.688	sadness
+hospice	0.688	sadness
+congédiement	0.686	sadness
+aliénation	0.685	sadness
+épreuves	0.685	sadness
+enlever	0.682	sadness
+étranglement	0.682	sadness
+saignement	0.673	sadness
+banni	0.672	sadness
+désespéré	0.672	sadness
+malheureusement	0.672	sadness
+rabaisser	0.672	sadness
+mal	0.672	sadness
+dénigrer	0.672	sadness
+se sentir mal	0.672	sadness
+emprisonnement	0.672	sadness
+affreux	0.672	sadness
+puni	0.672	sadness
+vous me manquez	0.672	sadness
+misérable	0.672	sadness
+abortif	0.672	sadness
+nécrologie	0.672	sadness
+sanglant	0.672	sadness
+misérable	0.672	sadness
+poison	0.672	sadness
+cercueil	0.672	sadness
+privation	0.672	sadness
+malveillant	0.672	sadness
+lamenter	0.672	sadness
+désactivée	0.672	sadness
+décomposé	0.672	sadness
+stérile	0.67	sadness
+empoisonné	0.667	sadness
+bourreau	0.667	sadness
+maladie	0.665	sadness
+opprimer	0.664	sadness
+désincarné	0.66	sadness
+déchirer	0.656	sadness
+haine	0.656	sadness
+solitaire	0.656	sadness
+morne	0.656	sadness
+rouillé	0.656	sadness
+malade	0.656	sadness
+démoniaque	0.656	sadness
+péril	0.656	sadness
+prison	0.656	sadness
+se lamenter	0.656	sadness
+merdique	0.656	sadness
+polio	0.656	sadness
+mutiler	0.656	sadness
+se ruiner	0.656	sadness
+pleurer	0.656	sadness
+voler	0.656	sadness
+cercueil	0.656	sadness
+morne	0.656	sadness
+carcasse	0.653	sadness
+regretté	0.652	sadness
+battement	0.652	sadness
+lâcheté	0.652	sadness
+invalidité	0.648	sadness
+affliction	0.645	sadness
+urgence	0.641	sadness
+haine	0.641	sadness
+résiliation	0.641	sadness
+terrible	0.641	sadness
+exorcisme	0.641	sadness
+coupable	0.641	sadness
+fléau	0.641	sadness
+périlleux	0.641	sadness
+toxique	0.641	sadness
+inquiéter	0.641	sadness
+noyer	0.641	sadness
+infertilité	0.641	sadness
+envelopper	0.641	sadness
+impuissant	0.641	sadness
+triste	0.641	sadness
+échouer	0.641	sadness
+terriblement	0.641	sadness
+inégalité	0.641	sadness
+incarcération	0.641	sadness
+sinistré	0.641	sadness
+psychose	0.638	sadness
+désappointé	0.636	sadness
+démolir	0.636	sadness
+consternation	0.636	sadness
+complainte	0.636	sadness
+pénible	0.634	sadness
+mausolée	0.63	sadness
+brisé	0.63	sadness
+tyran	0.625	sadness
+décevant	0.625	sadness
+insurmontable	0.625	sadness
+blessure	0.625	sadness
+impuissance	0.625	sadness
+détruit	0.625	sadness
+abuser de	0.625	sadness
+démoli	0.625	sadness
+paralysie	0.625	sadness
+perdu	0.625	sadness
+posthume	0.625	sadness
+obscurité	0.625	sadness
+schizophrénie	0.625	sadness
+maudit	0.625	sadness
+non désiré	0.625	sadness
+désespéré	0.625	sadness
+mettre fin	0.625	sadness
+déshonorer	0.625	sadness
+le regret	0.625	sadness
+amèrement	0.625	sadness
+blesser	0.625	sadness
+contrainte	0.625	sadness
+oppressif	0.625	sadness
+détériorer	0.625	sadness
+inhumain	0.623	sadness
+divorce	0.623	sadness
+mélancolie	0.621	sadness
+incinération	0.621	sadness
+bombe	0.621	sadness
+abandonner	0.621	sadness
+préoccupé	0.621	sadness
+situation critique	0.621	sadness
+impitoyable	0.612	sadness
+état septique	0.611	sadness
+submergé	0.609	sadness
+craintivement	0.609	sadness
+languissant	0.609	sadness
+alcoolisme	0.609	sadness
+irréparable	0.609	sadness
+faillite	0.609	sadness
+sang	0.609	sadness
+débâcle	0.609	sadness
+cruel	0.609	sadness
+blessé	0.609	sadness
+déloyal	0.609	sadness
+la laideur	0.609	sadness
+dérogatoire	0.609	sadness
+blesser	0.609	sadness
+décevoir	0.609	sadness
+écrasement	0.609	sadness
+manille	0.609	sadness
+terrible	0.609	sadness
+sacrifices	0.609	sadness
+rompre	0.609	sadness
+assujettissement	0.609	sadness
+exclu	0.609	sadness
+pécheur	0.609	sadness
+dégradant	0.609	sadness
+sans valeur	0.609	sadness
+coupable	0.609	sadness
+briser	0.609	sadness
+désobligeant	0.609	sadness
+délabré	0.609	sadness
+honteux	0.609	sadness
+malédiction	0.608	sadness
+anthrax	0.6	sadness
+vol	0.6	sadness
+seul	0.6	sadness
+angoisse	0.598	sadness
+perdant	0.594	sadness
+prison	0.594	sadness
+sombre	0.594	sadness
+contaminé	0.594	sadness
+privé	0.594	sadness
+martyre	0.594	sadness
+irréconciliable	0.594	sadness
+braconnage	0.594	sadness
+brailler	0.594	sadness
+expulsion	0.594	sadness
+mauvais	0.594	sadness
+sans espoir	0.594	sadness
+chute	0.594	sadness
+déportation	0.594	sadness
+effritement	0.594	sadness
+détresse	0.594	sadness
+déception	0.594	sadness
+démon	0.594	sadness
+le néant	0.594	sadness
+condoléances	0.594	sadness
+crypte	0.594	sadness
+désir	0.594	sadness
+la honte	0.594	sadness
+captivité	0.594	sadness
+effacer	0.594	sadness
+le chaos	0.594	sadness
+violation	0.594	sadness
+vengeance	0.594	sadness
+cassé	0.594	sadness
+abîme	0.594	sadness
+petloss	0.594	sadness
+délinquant	0.594	sadness
+remords	0.594	sadness
+trahir	0.594	sadness
+dysenterie	0.593	sadness
+rouille	0.591	sadness
+mélancolique	0.591	sadness
+rupture	0.588	sadness
+traitre	0.588	sadness
+hâve	0.587	sadness
+mensonge	0.585	sadness
+choléra	0.583	sadness
+dégénérescence	0.578	sadness
+indésirable	0.578	sadness
+sombre	0.578	sadness
+la tourmente	0.578	sadness
+terrible	0.578	sadness
+effrayer	0.578	sadness
+indisposé	0.578	sadness
+brute	0.578	sadness
+amertume	0.578	sadness
+la discrimination	0.578	sadness
+gémissement	0.578	sadness
+humiliation	0.578	sadness
+sordide	0.578	sadness
+immoral	0.578	sadness
+nocif	0.578	sadness
+inhumation	0.578	sadness
+nié	0.578	sadness
+dommage	0.578	sadness
+délire	0.576	sadness
+captif	0.576	sadness
+pessimisme	0.576	sadness
+déplorer	0.576	sadness
+gémissement	0.576	sadness
+détesté	0.576	sadness
+diable	0.576	sadness
+dégâts	0.576	sadness
+odieux	0.575	sadness
+fanatique	0.574	sadness
+perdition	0.569	sadness
+adultère	0.566	sadness
+corrompre	0.565	sadness
+détérioration	0.562	sadness
+fouetter	0.562	sadness
+lugubre	0.562	sadness
+comateux	0.562	sadness
+autopsie	0.562	sadness
+inquiétant	0.562	sadness
+tromper	0.562	sadness
+tombeau	0.562	sadness
+tromperie	0.562	sadness
+se vautrer	0.562	sadness
+pessimiste	0.562	sadness
+rejet	0.562	sadness
+triste jour	0.562	sadness
+naufrage	0.562	sadness
+trompeur	0.562	sadness
+urne	0.562	sadness
+punitif	0.562	sadness
+blessure	0.562	sadness
+rancœur	0.562	sadness
+endocardite	0.562	sadness
+rhumatisme	0.562	sadness
+affliction	0.562	sadness
+expirer	0.562	sadness
+tyrannie	0.562	sadness
+anathème	0.562	sadness
+pauvre	0.562	sadness
+fuyez	0.562	sadness
+dérangé	0.562	sadness
+défunt	0.558	sadness
+martyr	0.556	sadness
+frapper	0.555	sadness
+paludisme	0.547	sadness
+pendaison	0.547	sadness
+dépit	0.547	sadness
+malaise	0.547	sadness
+mémorial	0.547	sadness
+démission	0.547	sadness
+absence	0.547	sadness
+tu me manques	0.547	sadness
+dégouté	0.547	sadness
+méchant	0.547	sadness
+isolé	0.547	sadness
+peste	0.547	sadness
+coup	0.547	sadness
+bombardier	0.547	sadness
+l'hydrocéphalie	0.547	sadness
+se rendre	0.547	sadness
+insatisfait	0.547	sadness
+décourager	0.547	sadness
+désillusion	0.547	sadness
+rejeter	0.547	sadness
+éviter	0.547	sadness
+pitié	0.547	sadness
+maussade	0.547	sadness
+infâme	0.546	sadness
+gémissement	0.545	sadness
+commotion cérébrale	0.545	sadness
+foncé	0.545	sadness
+incrimination	0.545	sadness
+faiblement	0.544	sadness
+douloureux	0.544	sadness
+mécontentement	0.543	sadness
+pompes funèbres	0.538	sadness
+agresseur	0.536	sadness
+détérioration	0.536	sadness
+grandement	0.531	sadness
+antisocial	0.531	sadness
+le mal du pays	0.531	sadness
+confiné	0.531	sadness
+hostile	0.531	sadness
+attaquer	0.531	sadness
+ternir	0.531	sadness
+confiscation	0.531	sadness
+vol	0.531	sadness
+explosion	0.531	sadness
+trompé	0.531	sadness
+dégoûter	0.531	sadness
+embolie	0.531	sadness
+requiem	0.531	sadness
+console	0.531	sadness
+dépossédé	0.531	sadness
+disparité	0.531	sadness
+malade	0.531	sadness
+prisonnier	0.531	sadness
+embarras	0.531	sadness
+mal	0.531	sadness
+infliger	0.531	sadness
+névrose	0.531	sadness
+épitaphe	0.531	sadness
+pénitence	0.531	sadness
+renfrogné	0.531	sadness
+grief	0.53	sadness
+rechute	0.53	sadness
+oublié	0.53	sadness
+désagréable	0.53	sadness
+désactiver	0.529	sadness
+sans défense	0.526	sadness
+défunt	0.518	sadness
+ridicule	0.518	sadness
+malheur	0.516	sadness
+cécité	0.516	sadness
+hostile	0.516	sadness
+illusion	0.516	sadness
+flétrir	0.516	sadness
+étouffé	0.516	sadness
+élimination	0.516	sadness
+malchanceux	0.516	sadness
+endolori	0.516	sadness
+retard	0.516	sadness
+végétatif	0.516	sadness
+dépouillé	0.516	sadness
+péché	0.516	sadness
+séquestration	0.516	sadness
+mécontent	0.516	sadness
+accident	0.516	sadness
+décharges	0.516	sadness
+hideux	0.516	sadness
+la faiblesse	0.516	sadness
+pourri	0.516	sadness
+non partagé	0.509	sadness
+dictature	0.509	sadness
+se plaindre	0.509	sadness
+perdre	0.509	sadness
+regrettable	0.509	sadness
+peu sûr	0.509	sadness
+la sorcellerie	0.508	sadness
+drogué	0.5	sadness
+irrespectueux	0.5	sadness
+injuste	0.5	sadness
+blennorragie	0.5	sadness
+perturbé	0.5	sadness
+pourrir	0.5	sadness
+négatif	0.5	sadness
+hurler	0.5	sadness
+dolor	0.5	sadness
+mortalité	0.5	sadness
+furieux	0.5	sadness
+athérosclérose	0.5	sadness
+impossible	0.5	sadness
+crash	0.5	sadness
+préjudiciable	0.5	sadness
+chronique	0.5	sadness
+renfrogné	0.5	sadness
+malaise	0.5	sadness
+intolérant	0.5	sadness
+impie	0.5	sadness
+conséquences	0.5	sadness
+exploser	0.5	sadness
+reculer	0.5	sadness
+combattu	0.5	sadness
+expulser	0.5	sadness
+nauséeux	0.5	sadness
+exclusion	0.5	sadness
+aggravant	0.5	sadness
+sénile	0.5	sadness
+anxiété	0.5	sadness
+se lasser	0.5	sadness
+cytomégalovirus	0.5	sadness
+poursuivre	0.5	sadness
+difficulté	0.5	sadness
+bière	0.5	sadness
+la faillite	0.5	sadness
+endémique	0.5	sadness
+offensé	0.5	sadness
+amortisseur	0.5	sadness
+foiré	0.5	sadness
+coma	0.5	sadness
+expulser	0.5	sadness
+dérogation	0.491	sadness
+rob	0.491	sadness
+cri	0.485	sadness
+récession	0.485	sadness
+évasion	0.484	sadness
+injustifié	0.484	sadness
+démissionner	0.484	sadness
+lâche	0.484	sadness
+gémissement	0.484	sadness
+lassitude	0.484	sadness
+inadéquat	0.484	sadness
+perturbation	0.484	sadness
+insulter	0.484	sadness
+fragilité	0.484	sadness
+adversité	0.484	sadness
+réprimer	0.484	sadness
+grimacer	0.484	sadness
+usé	0.484	sadness
+méchant	0.484	sadness
+sabotage	0.484	sadness
+critique	0.484	sadness
+arsenic	0.484	sadness
+représailles	0.484	sadness
+mendier	0.484	sadness
+hôpital	0.484	sadness
+infraction	0.484	sadness
+cassé	0.484	sadness
+infectieux	0.483	sadness
+malhonnête	0.482	sadness
+pourriture	0.482	sadness
+dissolution	0.48	sadness
+le plus bas	0.478	sadness
+mauvais pour la santé	0.474	sadness
+irritation	0.47	sadness
+perversion	0.469	sadness
+désapprobation	0.469	sadness
+de mauvaise humeur	0.469	sadness
+vulnérabilité	0.469	sadness
+pénal	0.469	sadness
+domination	0.469	sadness
+défavorable	0.469	sadness
+illégal	0.469	sadness
+indifférent	0.469	sadness
+exclu	0.469	sadness
+séparer	0.469	sadness
+connivence	0.469	sadness
+malheureux	0.469	sadness
+sédition	0.469	sadness
+peine	0.469	sadness
+pernicieux	0.469	sadness
+tout	0.469	sadness
+conflit	0.469	sadness
+précipité	0.469	sadness
+inquiétude	0.469	sadness
+condamné	0.469	sadness
+effondrer	0.469	sadness
+tomber	0.469	sadness
+expulsion	0.469	sadness
+frustrer	0.469	sadness
+critiquer	0.469	sadness
+rougeole	0.469	sadness
+récidive	0.469	sadness
+effiloché	0.467	sadness
+infamie	0.464	sadness
+pillage	0.461	sadness
+déprécié	0.46	sadness
+décliner	0.456	sadness
+mal	0.455	sadness
+illicite	0.455	sadness
+disparu	0.453	sadness
+rareté	0.453	sadness
+isolé	0.453	sadness
+monuments commémoratifs	0.453	sadness
+abandon	0.453	sadness
+incapacité	0.453	sadness
+tribulations	0.453	sadness
+perplexité	0.453	sadness
+inhospitalier	0.453	sadness
+envahir	0.453	sadness
+pire	0.453	sadness
+désapprouver	0.453	sadness
+à tort	0.453	sadness
+revolver	0.453	sadness
+vulgarité	0.453	sadness
+douce-amère	0.453	sadness
+discriminer	0.453	sadness
+saisir	0.453	sadness
+bouleversement	0.453	sadness
+épave	0.453	sadness
+despotisme	0.453	sadness
+est tombée	0.453	sadness
+froncer	0.453	sadness
+confisquer	0.453	sadness
+critiquer	0.453	sadness
+le marasme	0.453	sadness
+réfugié	0.453	sadness
+avalanche	0.453	sadness
+humble	0.448	sadness
+seul	0.446	sadness
+guillotine	0.446	sadness
+encombrement	0.441	sadness
+annulation	0.44	sadness
+délirant	0.439	sadness
+accouchement	0.439	sadness
+mauvais jour	0.439	sadness
+bummer	0.439	sadness
+sous-payés	0.438	sadness
+détenu	0.438	sadness
+restriction	0.438	sadness
+stigmate	0.438	sadness
+fugitif	0.438	sadness
+sympathiser	0.438	sadness
+indigent	0.438	sadness
+clochard	0.438	sadness
+pensif	0.438	sadness
+manque	0.438	sadness
+blues	0.438	sadness
+émotif	0.438	sadness
+diminuer	0.438	sadness
+désapprobateur	0.438	sadness
+désapprouvé	0.438	sadness
+sombre	0.438	sadness
+apathique	0.438	sadness
+imprudent	0.438	sadness
+abcès	0.438	sadness
+insignifiant	0.438	sadness
+animosité	0.438	sadness
+annulation	0.438	sadness
+problème	0.438	sadness
+interdire	0.438	sadness
+folie	0.438	sadness
+disloqué	0.438	sadness
+désaccord	0.438	sadness
+léthargie	0.438	sadness
+rejette	0.438	sadness
+débranché	0.438	sadness
+absent	0.438	sadness
+départ	0.438	sadness
+ghetto	0.438	sadness
+inaccessible	0.438	sadness
+futile	0.438	sadness
+coercition	0.438	sadness
+dégonfler	0.438	sadness
+insolvabilité	0.438	sadness
+adieu	0.438	sadness
+appendicite	0.438	sadness
+déranger	0.435	sadness
+disqualifié	0.435	sadness
+faire trébucher	0.429	sadness
+coulé	0.426	sadness
+évacuation	0.424	sadness
+dernier jour	0.424	sadness
+varicelle	0.424	sadness
+châtiment	0.424	sadness
+cardiomyopathie	0.422	sadness
+rare	0.422	sadness
+voleur	0.422	sadness
+inégal	0.422	sadness
+coupe	0.422	sadness
+névralgie	0.422	sadness
+importun	0.422	sadness
+hanté	0.422	sadness
+insolvable	0.422	sadness
+déchirure	0.422	sadness
+kyste	0.422	sadness
+discordant	0.422	sadness
+déviation	0.422	sadness
+méfait	0.422	sadness
+mal	0.422	sadness
+handicap	0.422	sadness
+impartial	0.422	sadness
+chute	0.422	sadness
+mendiant	0.422	sadness
+des difficultés	0.421	sadness
+envahisseur	0.42	sadness
+terne	0.42	sadness
+tomber	0.418	sadness
+illégitime	0.416	sadness
+expulser	0.414	sadness
+ténèbres	0.409	sadness
+sans signification	0.409	sadness
+syncope	0.407	sadness
+odieux	0.406	sadness
+assombrir	0.406	sadness
+hostilité	0.406	sadness
+chienne	0.406	sadness
+confiner	0.406	sadness
+canular	0.406	sadness
+précaire	0.406	sadness
+féodalisme	0.406	sadness
+incendies	0.406	sadness
+fatigué	0.406	sadness
+faute	0.406	sadness
+accident vasculaire cérébral	0.406	sadness
+soumis	0.406	sadness
+fureur	0.406	sadness
+insatisfait	0.405	sadness
+donner une fessée	0.403	sadness
+inonder	0.402	sadness
+soupir	0.402	sadness
+vieille fille	0.4	sadness
+bleu	0.4	sadness
+dû	0.398	sadness
+besoin de vie	0.398	sadness
+embarrasser	0.394	sadness
+piège	0.394	sadness
+gravité	0.394	sadness
+inutile	0.394	sadness
+cage	0.391	sadness
+brute	0.391	sadness
+épuisé	0.391	sadness
+dette	0.391	sadness
+condescendance	0.391	sadness
+reproche	0.391	sadness
+nœud coulant	0.391	sadness
+insultant	0.391	sadness
+si seulement	0.391	sadness
+tendeur	0.391	sadness
+tromperie	0.391	sadness
+coup de poing	0.391	sadness
+froideur	0.391	sadness
+nain	0.391	sadness
+vorace	0.391	sadness
+faible	0.391	sadness
+inefficace	0.391	sadness
+refusé	0.391	sadness
+démon	0.391	sadness
+banshee	0.391	sadness
+mousson	0.391	sadness
+rue	0.391	sadness
+ineptie	0.391	sadness
+subvertir	0.384	sadness
+jalousie	0.382	sadness
+gériatrique	0.379	sadness
+manquer	0.379	sadness
+lutte	0.379	sadness
+inexcusable	0.379	sadness
+empêtré	0.377	sadness
+descente	0.377	sadness
+cendres	0.377	sadness
+inconsidéré	0.375	sadness
+suce	0.375	sadness
+noirceur	0.375	sadness
+marasme	0.375	sadness
+non conformité	0.375	sadness
+cicatrice	0.375	sadness
+sombre	0.375	sadness
+trouille	0.375	sadness
+glissement de terrain	0.375	sadness
+disqualifier	0.375	sadness
+gaspillage	0.375	sadness
+épuisement	0.375	sadness
+au revoir	0.375	sadness
+la sympathie	0.375	sadness
+évincer	0.375	sadness
+séparation	0.375	sadness
+se désister	0.375	sadness
+inférieur	0.375	sadness
+la prostitution	0.375	sadness
+dissiper	0.375	sadness
+couvert	0.375	sadness
+enragé	0.375	sadness
+peu attrayant	0.373	sadness
+retard	0.373	sadness
+s'excuser	0.37	sadness
+fou	0.368	sadness
+connard	0.366	sadness
+détérioré	0.365	sadness
+entre	0.364	sadness
+vide	0.364	sadness
+railleur	0.363	sadness
+additionneur	0.361	sadness
+auteur	0.359	sadness
+entrave	0.359	sadness
+affront	0.359	sadness
+accusation	0.359	sadness
+infructueux	0.359	sadness
+incapable	0.359	sadness
+déconnecter	0.359	sadness
+défendeur	0.359	sadness
+corse	0.359	sadness
+obésité	0.359	sadness
+raillerie	0.359	sadness
+servile	0.359	sadness
+malentendu	0.359	sadness
+austère	0.359	sadness
+doute	0.359	sadness
+querelles	0.359	sadness
+chasseur	0.359	sadness
+infructueux	0.359	sadness
+inefficacité	0.359	sadness
+consécration	0.359	sadness
+tremblement	0.359	sadness
+sans emploi	0.359	sadness
+agitation	0.359	sadness
+impopulaire	0.359	sadness
+évanouissement	0.359	sadness
+engourdissement	0.359	sadness
+patauger	0.359	sadness
+idiotie	0.359	sadness
+blocage	0.359	sadness
+plaintif	0.359	sadness
+troubles	0.351	sadness
+becquet	0.348	sadness
+intervention	0.348	sadness
+déchets	0.348	sadness
+wimpy	0.348	sadness
+absent	0.348	sadness
+défaut	0.347	sadness
+désert	0.344	sadness
+lourd	0.344	sadness
+spectre	0.344	sadness
+résigné	0.344	sadness
+sillon	0.344	sadness
+en retard	0.344	sadness
+déclarer forfait	0.344	sadness
+sans inspiration	0.344	sadness
+plaidoyer	0.344	sadness
+intercéder	0.344	sadness
+coloré	0.344	sadness
+plaider	0.344	sadness
+aveuglément	0.344	sadness
+atténuation	0.344	sadness
+milice	0.344	sadness
+chirurgie	0.344	sadness
+retenue	0.344	sadness
+procès	0.344	sadness
+débattre	0.344	sadness
+sans invitation	0.344	sadness
+inexplicable	0.339	sadness
+myopie	0.339	sadness
+mésaventure	0.338	sadness
+probation	0.336	sadness
+rupture	0.333	sadness
+en désaccord	0.333	sadness
+incompétent	0.328	sadness
+bas	0.328	sadness
+interminable	0.328	sadness
+dépendance	0.328	sadness
+interdit	0.328	sadness
+esclavage	0.328	sadness
+douleur	0.328	sadness
+non reconnu	0.328	sadness
+bourrasque	0.328	sadness
+inacceptable	0.328	sadness
+à la dérive	0.328	sadness
+népotisme	0.328	sadness
+stérile	0.328	sadness
+les bactéries	0.328	sadness
+laisser	0.328	sadness
+gronder	0.327	sadness
+mou	0.324	sadness
+clochard	0.323	sadness
+fragile	0.319	sadness
+avare	0.319	sadness
+poursuivre en justice	0.318	sadness
+à peine	0.318	sadness
+blême	0.312	sadness
+incarcération	0.312	sadness
+erreur	0.312	sadness
+assombri	0.312	sadness
+déraper	0.312	sadness
+defier	0.312	sadness
+battre	0.312	sadness
+gras	0.312	sadness
+nostalgie	0.312	sadness
+inhiber	0.312	sadness
+évanescence	0.312	sadness
+ulcère	0.312	sadness
+tendon	0.312	sadness
+absurde	0.312	sadness
+cacher	0.311	sadness
+défaut	0.31	sadness
+résister	0.309	sadness
+sympathique	0.307	sadness
+bugaboo	0.304	sadness
+avouer	0.303	sadness
+opium	0.303	sadness
+hélas	0.302	sadness
+au cas où	0.297	sadness
+s'arrêter	0.297	sadness
+incompatible	0.297	sadness
+migraine	0.297	sadness
+tromper	0.297	sadness
+trop froid	0.297	sadness
+réprimer	0.297	sadness
+inapproprié	0.297	sadness
+discontinuité	0.297	sadness
+revers	0.297	sadness
+terne	0.297	sadness
+faible	0.297	sadness
+affaissement	0.297	sadness
+ridé	0.297	sadness
+ermite	0.296	sadness
+en mouvement	0.295	sadness
+rétrécir	0.295	sadness
+frisson	0.291	sadness
+tramp	0.288	sadness
+sans importance	0.288	sadness
+contrainte	0.288	sadness
+décombres	0.282	sadness
+nègre	0.281	sadness
+gris	0.281	sadness
+reculer	0.281	sadness
+apathie	0.281	sadness
+confession	0.281	sadness
+vers le bas	0.281	sadness
+retirer	0.281	sadness
+désarçonner	0.281	sadness
+fatigué	0.281	sadness
+entacher	0.281	sadness
+à l'exclusion	0.281	sadness
+en retard	0.281	sadness
+pénurie	0.281	sadness
+grincheux	0.281	sadness
+fiasco	0.281	sadness
+révoquer	0.281	sadness
+négatif	0.281	sadness
+noir	0.281	sadness
+la tremblante	0.281	sadness
+timide	0.281	sadness
+insensé	0.281	sadness
+glas	0.275	sadness
+soldat	0.273	sadness
+humilié	0.273	sadness
+confusion	0.273	sadness
+palpiter	0.273	sadness
+jurisprudence	0.273	sadness
+gris	0.269	sadness
+cabane	0.266	sadness
+émotions mixtes	0.266	sadness
+obstacle	0.266	sadness
+relâché	0.266	sadness
+négligent	0.266	sadness
+liaison	0.266	sadness
+irréaliste	0.266	sadness
+dérive	0.266	sadness
+éternité	0.266	sadness
+en quittant	0.266	sadness
+incommode	0.263	sadness
+fausse déclaration	0.259	sadness
+restreindre	0.259	sadness
+stagnant	0.259	sadness
+mauvais service	0.258	sadness
+pas de soleil	0.255	sadness
+marigot	0.255	sadness
+région sauvage	0.255	sadness
+erreur	0.25	sadness
+ancrage	0.25	sadness
+inexpliqué	0.25	sadness
+fumisterie	0.25	sadness
+crédule	0.25	sadness
+spéculation	0.25	sadness
+communisme	0.25	sadness
+sans instruction	0.25	sadness
+tempête	0.25	sadness
+coup	0.25	sadness
+laborieux	0.25	sadness
+incomplet	0.25	sadness
+gaspilleur	0.25	sadness
+pin	0.25	sadness
+éternel	0.25	sadness
+plus âgée	0.25	sadness
+démonstratif	0.242	sadness
+mélodrame	0.242	sadness
+jour de pluie	0.242	sadness
+nécessité	0.236	sadness
+ennui	0.235	sadness
+nuageux	0.234	sadness
+creux	0.234	sadness
+burke	0.234	sadness
+poubelle	0.234	sadness
+pâle	0.234	sadness
+partir	0.234	sadness
+inintéressant	0.234	sadness
+phrase	0.234	sadness
+vide	0.234	sadness
+annuler	0.234	sadness
+brumeux	0.234	sadness
+chaîne	0.234	sadness
+brumeux	0.234	sadness
+blocus	0.234	sadness
+guérison	0.234	sadness
+cas	0.228	sadness
+pluvieux	0.227	sadness
+lourd	0.223	sadness
+bas	0.223	sadness
+indifférent	0.223	sadness
+jeûne	0.22	sadness
+faire face	0.219	sadness
+décoloré	0.219	sadness
+la soif	0.219	sadness
+boooo	0.219	sadness
+pieux	0.219	sadness
+gaffe	0.219	sadness
+indifférence	0.219	sadness
+aumône	0.219	sadness
+cocaïne	0.218	sadness
+dure	0.212	sadness
+révolution	0.203	sadness
+graisse	0.203	sadness
+aride	0.203	sadness
+léthargique	0.203	sadness
+dégoûtant	0.203	sadness
+entorse	0.203	sadness
+froid	0.203	sadness
+inférieur	0.203	sadness
+facturable	0.203	sadness
+chenu	0.203	sadness
+vouloir	0.202	sadness
+progression	0.201	sadness
+fermeture	0.195	sadness
+invaincu	0.193	sadness
+grille	0.188	sadness
+licou	0.188	sadness
+meh	0.188	sadness
+du froid	0.188	sadness
+taquiner	0.188	sadness
+scission	0.188	sadness
+rumeur	0.188	sadness
+cataracte	0.188	sadness
+invalide	0.188	sadness
+sincère	0.188	sadness
+singularité	0.188	sadness
+veau	0.188	sadness
+retraite	0.188	sadness
+interrompu	0.188	sadness
+concerné	0.184	sadness
+sarcasme	0.181	sadness
+bande	0.179	sadness
+sentiment	0.172	sadness
+sève	0.172	sadness
+des souvenirs	0.172	sadness
+éviter	0.172	sadness
+estime	0.172	sadness
+ventouses	0.172	sadness
+surcharge	0.172	sadness
+divisé	0.172	sadness
+destination	0.17	sadness
+pas de neige	0.169	sadness
+limité	0.167	sadness
+pluie	0.163	sadness
+délibéré	0.16	sadness
+sans titre	0.157	sadness
+passage	0.156	sadness
+mauvaises herbes	0.156	sadness
+traverser	0.156	sadness
+rogner	0.155	sadness
+grognement	0.154	sadness
+procession	0.152	sadness
+sans conséquence	0.152	sadness
+impôt	0.142	sadness
+trop cher	0.141	sadness
+lesbienne	0.141	sadness
+poids	0.141	sadness
+tolérer	0.141	sadness
+agresser	0.141	sadness
+emo	0.141	sadness
+suceptible	0.14	sadness
+échoué	0.13	sadness
+chenil	0.13	sadness
+commémorer	0.125	sadness
+en retard	0.125	sadness
+théocratique	0.125	sadness
+marge	0.125	sadness
+socialiste	0.125	sadness
+immobilité	0.125	sadness
+doux	0.125	sadness
+terrifiant	0.125	sadness
+la fraternité	0.125	sadness
+des nuages	0.125	sadness
+non payé	0.125	sadness
+défaut	0.121	sadness
+dentelle	0.118	sadness
+non publié	0.116	sadness
+intéressé	0.114	sadness
+forteresse	0.11	sadness
+toison	0.109	sadness
+prêtrise	0.109	sadness
+évaluation	0.109	sadness
+ultime	0.109	sadness
+luxuriant	0.109	sadness
+orchestre	0.109	sadness
+harry	0.109	sadness
+sanctifier	0.108	sadness
+le revenu	0.1	sadness
+gagnant	0.094	sadness
+silencieux	0.094	sadness
+sonnet	0.094	sadness
+huer	0.094	sadness
+vainement	0.091	sadness
+cabane	0.078	sadness
+opéra	0.078	sadness
+humble	0.078	sadness
+motivant	0.078	sadness
+humide	0.078	sadness
+ovation	0.078	sadness
+étreinte	0.078	sadness
+traiter	0.076	sadness
+hymne	0.064	sadness
+honnête	0.062	sadness
+reliques	0.061	sadness
+canapé	0.06	sadness
+gaufre	0.047	sadness
+coquille	0.045	sadness
+musical	0.045	sadness
+saveur	0.034	sadness
+serviette de table	0.031	sadness
+vote	0.031	sadness
+chanter	0.017	sadness
+la musique	0.016	sadness
+mère	0.016	sadness
+nutritif	0.015	sadness
+charmant	0.009	sadness
+alcool	0	sadness
+chérie	0	sadness
+romance	0	sadness
+art	0	sadness
+le plus heureux	0.986	joy
+bonheur	0.984	joy
+félicité	0.971	joy
+célébrer	0.97	joy
+radieux	0.969	joy
+en extase	0.954	joy
+allégresse	0.944	joy
+radieux	0.938	joy
+meilleur jour de ma vie	0.938	joy
+loveee	0.932	joy
+fête	0.929	joy
+génialité	0.926	joy
+joie	0.924	joy
+heureusement	0.922	joy
+fabuleux	0.922	joy
+exubérance	0.922	joy
+excitation	0.922	joy
+joyeux	0.922	joy
+me rend heureux	0.922	joy
+euphorie	0.922	joy
+lovee	0.92	joy
+reconnaissance	0.914	joy
+danse joyeuse	0.912	joy
+gaieté	0.912	joy
+spectaculaire	0.912	joy
+fou de joie	0.909	joy
+pur bonheur	0.909	joy
+triomphant	0.907	joy
+amour amour amour	0.906	joy
+extase	0.906	joy
+de bonne humeur	0.906	joy
+acclamation	0.897	joy
+ravi	0.894	joy
+gai	0.891	joy
+aime ça	0.891	joy
+tranquillité d'esprit	0.891	joy
+enchanté	0.891	joy
+euphorie	0.891	joy
+excitation	0.891	joy
+les plaisirs	0.891	joy
+rire	0.891	joy
+merveilleusement	0.881	joy
+bienheureux	0.879	joy
+aimant	0.879	joy
+exceptionnel	0.879	joy
+joyeux	0.879	joy
+agréable	0.877	joy
+une matinée	0.875	joy
+aimer la vie	0.875	joy
+yaaaay	0.875	joy
+endroit heureux	0.875	joy
+je l aime	0.875	joy
+joie	0.875	joy
+enthousiaste	0.875	joy
+tellement heureux	0.868	joy
+superbe	0.864	joy
+en riant	0.864	joy
+woohoo	0.864	joy
+merveilleux	0.863	joy
+j `aime noel	0.859	joy
+hourra	0.859	joy
+brillant	0.859	joy
+applaudissement	0.859	joy
+gloire	0.859	joy
+larmes de joie	0.859	joy
+mag	0.859	joy
+alléluia	0.859	joy
+yayyyy	0.859	joy
+célèbre	0.859	joy
+aimé	0.859	joy
+passionnant	0.853	joy
+céleste	0.853	joy
+ravi	0.851	joy
+jour de mademoiselle	0.848	joy
+ho ho ho	0.845	joy
+merveilleusement	0.844	joy
+bénédiction	0.844	joy
+favori vacances	0.844	joy
+célébrer	0.844	joy
+célébrations	0.833	joy
+béni	0.833	joy
+de fête	0.833	joy
+douceur	0.833	joy
+paradis	0.833	joy
+merveilleux	0.833	joy
+compliment	0.831	joy
+enchanteur	0.828	joy
+souriant	0.828	joy
+tout sourire	0.828	joy
+amour	0.828	joy
+la douceur du foyer	0.826	joy
+merci dieu	0.824	joy
+merveilleux	0.824	joy
+rire	0.824	joy
+bonne humeur	0.819	joy
+coeur heureux	0.818	joy
+les joies	0.818	joy
+sensationnel	0.818	joy
+en fête	0.818	joy
+excellence	0.818	joy
+délicieux	0.818	joy
+la bonté	0.818	joy
+excité	0.818	joy
+réjouissance	0.818	joy
+reconnaissant	0.816	joy
+jovial	0.814	joy
+glorieux	0.812	joy
+victorieux	0.812	joy
+excellent	0.812	joy
+aubaine	0.812	joy
+réjouir	0.812	joy
+splendide	0.812	joy
+prendre plaisir	0.812	joy
+faire l'amour	0.812	joy
+belle journée	0.812	joy
+smiley	0.812	joy
+bon temps	0.811	joy
+ce qui fait mesmile	0.811	joy
+tous les jours	0.809	joy
+mon préféré	0.804	joy
+ouais	0.803	joy
+joie	0.803	joy
+yayyy	0.803	joy
+plaisir	0.803	joy
+merci seigneur	0.803	joy
+pouffer de rire	0.802	joy
+vie amoureuse	0.797	joy
+oui	0.797	joy
+happytweet	0.797	joy
+succès	0.797	joy
+dansant	0.797	joy
+vie amoureuse	0.797	joy
+plus heureux	0.797	joy
+magnificence	0.797	joy
+reconnaissant	0.789	joy
+heureux	0.788	joy
+amuser	0.788	joy
+splendeur	0.788	joy
+amusement	0.788	joy
+glorifier	0.781	joy
+tellement chanceux	0.781	joy
+content de	0.781	joy
+enchanté	0.781	joy
+sothankful	0.781	joy
+radiant	0.781	joy
+belle	0.781	joy
+fou rire	0.781	joy
+la perfection	0.779	joy
+noël	0.779	joy
+cieux	0.779	joy
+romance	0.779	joy
+palpitant	0.776	joy
+joyeuse saint valentin	0.773	joy
+divertir	0.773	joy
+acclamé	0.773	joy
+positivité	0.773	joy
+félicitations	0.773	joy
+à votre santé	0.773	joy
+aimable	0.773	joy
+miraculeux	0.773	joy
+fiesta	0.773	joy
+funday	0.772	joy
+en profitant	0.771	joy
+amusé	0.766	joy
+sourit	0.766	joy
+la vie est belle	0.766	joy
+le meilleur	0.766	joy
+câliner	0.766	joy
+si charmant	0.766	joy
+l'esprit de noël	0.766	joy
+bon sentiment	0.766	joy
+délice	0.765	joy
+orgasme	0.765	joy
+fête	0.765	joy
+positif	0.761	joy
+éclairer	0.758	joy
+gaieté	0.758	joy
+des miracles	0.758	joy
+chérie	0.758	joy
+étourdi	0.757	joy
+période de noël	0.757	joy
+plaisant	0.75	joy
+satisfaire	0.75	joy
+sourire	0.75	joy
+des rires	0.75	joy
+grandeur	0.75	joy
+la convivialité	0.75	joy
+joyeuses fêtes	0.75	joy
+romantique	0.75	joy
+bénédictions	0.75	joy
+la dernière saison	0.75	joy
+gambader	0.748	joy
+énergie positive	0.742	joy
+récompense	0.742	joy
+magique	0.742	joy
+miracle	0.742	joy
+l'amour de soi	0.742	joy
+jubilé	0.742	joy
+triomphe	0.742	joy
+goodvibes	0.742	joy
+enthousiasme	0.742	joy
+se sentir bien	0.736	joy
+la prospérité	0.735	joy
+passionné	0.734	joy
+admiration	0.734	joy
+se sentir bien	0.734	joy
+tgif	0.734	joy
+la victoire	0.734	joy
+enchanter	0.734	joy
+vivace	0.734	joy
+luxueux	0.734	joy
+soyez heureux	0.734	joy
+bonne nuit	0.734	joy
+bonne journée	0.734	joy
+glorification	0.733	joy
+embrasé	0.729	joy
+chanter	0.729	joy
+stupéfiant	0.728	joy
+oui	0.728	joy
+accomplissement	0.728	joy
+en paix	0.727	joy
+hourra	0.727	joy
+joyeux	0.727	joy
+père noël	0.727	joy
+prix	0.727	joy
+vacances de noël	0.727	joy
+reconnaissant	0.727	joy
+gai	0.727	joy
+gagner	0.727	joy
+heureux	0.725	joy
+inspiration	0.725	joy
+éclat	0.725	joy
+soulèvement	0.723	joy
+optimiste	0.723	joy
+vacances	0.721	joy
+frisson	0.721	joy
+paradis	0.721	joy
+dieu est grand	0.721	joy
+chanceux	0.721	joy
+amusement	0.719	joy
+de félicitations	0.719	joy
+harmonie	0.719	joy
+éclairer	0.719	joy
+amoureux	0.719	joy
+parfait	0.719	joy
+charmant	0.719	joy
+prospère	0.719	joy
+louant	0.719	joy
+utopique	0.719	joy
+noël	0.719	joy
+sincère	0.719	joy
+luxe	0.712	joy
+trésors	0.712	joy
+la magie	0.712	joy
+meilleur sentiment	0.712	joy
+joyeux noël	0.712	joy
+réussite	0.712	joy
+vacances	0.712	joy
+yay	0.712	joy
+le plus chanceux	0.712	joy
+intime	0.71	joy
+yaaay	0.706	joy
+glousser	0.706	joy
+délirer	0.706	joy
+bienheureux	0.706	joy
+fier	0.704	joy
+chérir	0.703	joy
+le plus doux	0.703	joy
+étonnamment	0.703	joy
+optimisme	0.703	joy
+fuckyeah	0.703	joy
+bonnes nouvelles	0.703	joy
+câlin	0.703	joy
+satisfaisant	0.703	joy
+embellissement	0.703	joy
+l'amour vrai	0.703	joy
+aimer la vie	0.703	joy
+gooood	0.703	joy
+bonne vie	0.703	joy
+apprécie	0.703	joy
+gagnant	0.703	joy
+oui	0.7	joy
+diverti	0.7	joy
+exciter	0.697	joy
+nouveaux commencements	0.693	joy
+louer jésus	0.691	joy
+anniversaire	0.691	joy
+exquis	0.688	joy
+contenu	0.688	joy
+don du ciel	0.688	joy
+merci jésus	0.688	joy
+adoration	0.688	joy
+angélique	0.688	joy
+bons amis	0.688	joy
+préféré	0.688	joy
+moi temps	0.688	joy
+honoré	0.688	joy
+saison des fêtes	0.688	joy
+divertissant	0.688	joy
+majestueux	0.682	joy
+éclaire	0.682	joy
+exaltation	0.682	joy
+bonne santé	0.682	joy
+sourit	0.682	joy
+meilleurs amis	0.682	joy
+souvenirs à oublier	0.682	joy
+précieux	0.682	joy
+succulent	0.682	joy
+apprécié	0.682	joy
+tranquillité	0.679	joy
+embrasse	0.676	joy
+marier	0.676	joy
+positivement	0.676	joy
+sourire	0.672	joy
+rires	0.672	joy
+animer	0.672	joy
+bday	0.672	joy
+relaxation	0.672	joy
+étreinte	0.672	joy
+hilarant	0.672	joy
+contentement	0.672	joy
+weeeee	0.672	joy
+le plus cher	0.672	joy
+accompli	0.672	joy
+rempli	0.667	joy
+adorer	0.667	joy
+généreux	0.667	joy
+victor	0.667	joy
+bruyant	0.667	joy
+remplir	0.664	joy
+câlins	0.662	joy
+prospère	0.66	joy
+sérénité	0.656	joy
+lueur	0.656	joy
+encouragé	0.656	joy
+réveillon de noël	0.656	joy
+appréciation	0.656	joy
+bonne année	0.656	joy
+satisfaire	0.656	joy
+la paix intérieure	0.656	joy
+captiver	0.656	joy
+besties	0.656	joy
+le romantisme	0.656	joy
+humour	0.656	joy
+agréable	0.656	joy
+la satisfaction	0.652	joy
+loué	0.652	joy
+abondance	0.652	joy
+trésor	0.652	joy
+louanges	0.652	joy
+engagé	0.652	joy
+relaxant	0.652	joy
+fortunes	0.652	joy
+rien de mieux	0.647	joy
+complément	0.647	joy
+affection	0.647	joy
+soulagé	0.647	joy
+carnaval	0.643	joy
+édifiant	0.641	joy
+divin	0.641	joy
+champion	0.641	joy
+action de grâces	0.641	joy
+atteindre	0.641	joy
+cagnotte	0.641	joy
+inestimable	0.641	joy
+saint	0.641	joy
+sensualité	0.641	joy
+mariage	0.641	joy
+harmonieusement	0.641	joy
+voyage de noces	0.636	joy
+exalter	0.636	joy
+scintillement	0.636	joy
+caresse	0.636	joy
+félicité	0.636	joy
+paisible	0.636	joy
+yayy	0.636	joy
+gagnant	0.636	joy
+rêverie	0.636	joy
+climax	0.636	joy
+réconfortant	0.636	joy
+bisous bisous	0.634	joy
+récompense	0.625	joy
+magnifique	0.625	joy
+praisegod	0.625	joy
+la générosité	0.625	joy
+cœurs	0.625	joy
+l'observation des étoiles	0.625	joy
+se blottir	0.625	joy
+penchant	0.625	joy
+amusant	0.625	joy
+sucré	0.625	joy
+plus lumineux	0.625	joy
+festival	0.625	joy
+sexe	0.622	joy
+gentil	0.621	joy
+parade	0.621	joy
+génial	0.621	joy
+applaudissements	0.621	joy
+beauté	0.621	joy
+épanouissant	0.618	joy
+en herbe	0.618	joy
+nouvelle vie	0.618	joy
+dieu vous protège	0.616	joy
+vertueux	0.613	joy
+baiser	0.61	joy
+arcs en ciel	0.609	joy
+généreuse	0.609	joy
+noël	0.609	joy
+éclaircissement	0.609	joy
+gains	0.609	joy
+espiègle	0.609	joy
+super	0.609	joy
+prix	0.609	joy
+louable	0.609	joy
+raviver	0.609	joy
+adorable	0.609	joy
+élégance	0.609	joy
+indépendance	0.607	joy
+amour	0.607	joy
+la gentillesse	0.606	joy
+inspiré	0.606	joy
+merveille	0.606	joy
+réussi	0.606	joy
+heheh	0.606	joy
+one love	0.606	joy
+hilarité	0.606	joy
+librement	0.606	joy
+des surprises	0.606	joy
+divertissement	0.603	joy
+la passion	0.603	joy
+capricieux	0.603	joy
+embellir	0.601	joy
+sans stress	0.601	joy
+lever du soleil	0.6	joy
+dieu est bon	0.597	joy
+révérer	0.594	joy
+blotti	0.594	joy
+accomplissement	0.594	joy
+jésus	0.594	joy
+ange	0.594	joy
+bonne musique	0.594	joy
+inspirer	0.594	joy
+flirter	0.594	joy
+dieu merci	0.594	joy
+whoo	0.594	joy
+goodies	0.594	joy
+pacifiquement	0.594	joy
+fanfare	0.594	joy
+relation amicale	0.591	joy
+héroïque	0.591	joy
+été	0.591	joy
+fortune	0.591	joy
+plus haut	0.591	joy
+en chantant	0.591	joy
+exalté	0.591	joy
+woot	0.588	joy
+content	0.588	joy
+débordé	0.588	joy
+joyeux	0.588	joy
+espérer	0.586	joy
+accolade	0.586	joy
+confortable	0.583	joy
+délicieux	0.579	joy
+ambition	0.578	joy
+amical	0.578	joy
+louange	0.578	joy
+délirant	0.578	joy
+sensuel	0.578	joy
+pittoresque	0.578	joy
+la vie	0.578	joy
+éternel	0.578	joy
+chéri	0.578	joy
+scintillait	0.577	joy
+ouais	0.576	joy
+flatteur	0.576	joy
+réussir	0.576	joy
+paix	0.576	joy
+héroïsme	0.576	joy
+fille chanceuse	0.576	joy
+sensuel	0.576	joy
+la grâce	0.576	joy
+spécial	0.574	joy
+vivre la vie	0.574	joy
+tentant	0.572	joy
+pompé	0.567	joy
+se détendre	0.562	joy
+héros	0.562	joy
+bonbons	0.562	joy
+admirable	0.562	joy
+oui	0.562	joy
+surprise	0.562	joy
+câlins	0.562	joy
+prospérer	0.562	joy
+admire	0.562	joy
+ensoleillé	0.562	joy
+prévaloir	0.562	joy
+aimer	0.562	joy
+humoristique	0.562	joy
+digne d'intérêt	0.562	joy
+superstar	0.562	joy
+bénir	0.561	joy
+favorable	0.561	joy
+tendresse	0.561	joy
+nouvel an	0.561	joy
+liberté	0.561	joy
+chef-d'oeuvre	0.561	joy
+rêves	0.559	joy
+optimiste	0.559	joy
+maison	0.559	joy
+croisière	0.556	joy
+gracias	0.554	joy
+fidélité	0.553	joy
+ardeur	0.552	joy
+proximité	0.552	joy
+ensoleillement	0.551	joy
+confortable	0.551	joy
+cadeau	0.547	joy
+prime	0.547	joy
+fille	0.547	joy
+vacances	0.547	joy
+confiance	0.547	joy
+zèle	0.547	joy
+étonnement	0.547	joy
+cœur	0.547	joy
+achèvement	0.547	joy
+cadeaux	0.547	joy
+du gui	0.547	joy
+élite	0.547	joy
+bien	0.547	joy
+céleste	0.547	joy
+éclairer	0.547	joy
+levé	0.547	joy
+bonjour	0.547	joy
+charmé	0.546	joy
+encouragement	0.545	joy
+sublime	0.545	joy
+danse	0.545	joy
+des loisirs	0.545	joy
+jet	0.545	joy
+dieu	0.545	joy
+libre	0.544	joy
+nouveau départ	0.544	joy
+sauveur	0.543	joy
+sanctuaire	0.541	joy
+petits enfants	0.54	joy
+bien-être	0.537	joy
+se délecter	0.534	joy
+vivant	0.531	joy
+de mariée	0.531	joy
+inspirant	0.531	joy
+vitalité	0.531	joy
+libération	0.531	joy
+sainteté	0.531	joy
+premier-né	0.531	joy
+argent	0.531	joy
+arc en ciel	0.531	joy
+jour de congé	0.531	joy
+serein	0.531	joy
+sur de soi	0.531	joy
+apaisant	0.531	joy
+la musique	0.531	joy
+mariage	0.531	joy
+monter en flèche	0.531	joy
+saveur	0.531	joy
+fab	0.531	joy
+la maîtrise	0.53	joy
+chaleur	0.53	joy
+élégant	0.53	joy
+lueur	0.53	joy
+fleur	0.53	joy
+éclairage	0.53	joy
+accueilli	0.53	joy
+traiter	0.529	joy
+fidèle	0.529	joy
+se blottir	0.522	joy
+lauriers	0.521	joy
+louable	0.519	joy
+renforcement	0.516	joy
+réussir	0.516	joy
+aspirer	0.516	joy
+abondant	0.516	joy
+puissant	0.516	joy
+tout-puissant	0.516	joy
+tinter	0.516	joy
+idiot	0.516	joy
+remarquable	0.516	joy
+zeste	0.516	joy
+fierté	0.516	joy
+fraternel	0.516	joy
+salué	0.516	joy
+présente	0.516	joy
+resplendissant	0.516	joy
+fantaisie	0.516	joy
+pas d'école	0.516	joy
+loisir	0.515	joy
+vif	0.515	joy
+remerciement	0.515	joy
+thérapeutique	0.515	joy
+du temps en famille	0.515	joy
+zen	0.515	joy
+réuni	0.515	joy
+animé	0.515	joy
+confort	0.515	joy
+princier	0.515	joy
+brillant	0.515	joy
+achevée	0.515	joy
+gloire	0.515	joy
+jour de paie	0.515	joy
+la mignonne	0.515	joy
+couronnement	0.515	joy
+esprit	0.515	joy
+nouveau moi	0.515	joy
+enfant	0.515	joy
+mariage	0.514	joy
+relation	0.514	joy
+jour fait	0.514	joy
+pieux	0.514	joy
+époux	0.507	joy
+intimement	0.507	joy
+atteint	0.5	joy
+soul	0.5	joy
+accueillant	0.5	joy
+satisfait	0.5	joy
+famille	0.5	joy
+méritoire	0.5	joy
+ronronner	0.5	joy
+motherhoo	0.5	joy
+insouciant	0.5	joy
+gemme	0.5	joy
+exceller	0.5	joy
+en bonne santé	0.5	joy
+surréaliste	0.5	joy
+diamant	0.5	joy
+charitable	0.5	joy
+attrayant	0.5	joy
+érotique	0.5	joy
+mémorable	0.5	joy
+véracité	0.5	joy
+copains	0.5	joy
+soulagement du stress	0.5	joy
+esprit saint	0.5	joy
+le respect	0.5	joy
+plage	0.5	joy
+la nature	0.5	joy
+dignité	0.5	joy
+floraison	0.5	joy
+accomplir	0.5	joy
+christ	0.5	joy
+encourager	0.5	joy
+teamjesus	0.5	joy
+visionnaire	0.5	joy
+bébé	0.5	joy
+rafraîchi	0.5	joy
+aura	0.493	joy
+santé	0.493	joy
+liberté	0.486	joy
+oasis	0.486	joy
+oui	0.486	joy
+approuvé	0.486	joy
+ravissement	0.485	joy
+fidèle	0.485	joy
+aspiration	0.485	joy
+inséparable	0.485	joy
+fiancé	0.485	joy
+privilégié	0.485	joy
+crescendo	0.485	joy
+couronnement	0.485	joy
+doux	0.485	joy
+libérer	0.485	joy
+aucune plainte	0.485	joy
+engageant	0.485	joy
+prime	0.485	joy
+prestige	0.485	joy
+délicieux	0.484	joy
+chocolat	0.484	joy
+envie	0.484	joy
+grand jour	0.484	joy
+indigne	0.484	joy
+rêver	0.484	joy
+transcendance	0.484	joy
+la chance	0.484	joy
+la créativité	0.484	joy
+bouquet	0.484	joy
+aloha	0.484	joy
+trophée	0.484	joy
+fête	0.484	joy
+destin	0.484	joy
+un rendez-vous romantique	0.484	joy
+copain	0.48	joy
+commémoration	0.479	joy
+intelligence	0.477	joy
+préparation	0.473	joy
+ami	0.471	joy
+passionné	0.471	joy
+la mariée	0.471	joy
+luxuriant	0.47	joy
+héritage	0.47	joy
+calmant	0.47	joy
+apaiser	0.47	joy
+aventure	0.47	joy
+kiddo	0.47	joy
+nostalgie	0.47	joy
+chatouiller	0.47	joy
+massage	0.47	joy
+ronronnement	0.469	joy
+collage	0.469	joy
+éternel	0.469	joy
+bienveillance	0.469	joy
+nourrir	0.469	joy
+donnant	0.469	joy
+princesse	0.469	joy
+joli	0.469	joy
+amical	0.469	joy
+va-t-en	0.469	joy
+buts	0.469	joy
+humanitaire	0.469	joy
+lustre	0.469	joy
+jeune marié	0.469	joy
+prier	0.469	joy
+du repos	0.469	joy
+chaleureusement	0.469	joy
+enfant	0.466	joy
+salutaire	0.465	joy
+inviter	0.457	joy
+faisceau	0.456	joy
+se remémorer	0.456	joy
+tropical	0.455	joy
+être ami	0.455	joy
+hé	0.455	joy
+la cérémonie	0.455	joy
+vendredi	0.455	joy
+élévation	0.455	joy
+vraiment gentil	0.455	joy
+esthétique	0.455	joy
+bourse d'études	0.455	joy
+parenté	0.455	joy
+pleine conscience	0.455	joy
+air frais	0.455	joy
+naissance	0.453	joy
+paysage	0.453	joy
+foi	0.453	joy
+namaste	0.453	joy
+justification	0.453	joy
+séduire	0.453	joy
+pas de soucis	0.453	joy
+commémorer	0.453	joy
+approuver	0.453	joy
+le pardon	0.453	joy
+cascade	0.453	joy
+périple	0.447	joy
+méditation	0.446	joy
+détendu	0.442	joy
+weekend	0.441	joy
+tranquille	0.441	joy
+soumissionner	0.441	joy
+présent	0.441	joy
+droiture	0.439	joy
+partage	0.439	joy
+lyrique	0.439	joy
+estime	0.439	joy
+nostalgique	0.439	joy
+prière	0.439	joy
+invaincu	0.438	joy
+partager	0.438	joy
+désireux	0.438	joy
+force	0.438	joy
+méditer	0.438	joy
+nouveau jour	0.438	joy
+mari	0.438	joy
+la vie	0.438	joy
+sonnet	0.438	joy
+le soulagement	0.438	joy
+puissant	0.438	joy
+chaud	0.429	joy
+vacances d'hiver	0.429	joy
+avancer	0.429	joy
+copain	0.427	joy
+unité	0.426	joy
+médaille	0.424	joy
+inégalée	0.424	joy
+chants	0.424	joy
+aux chandelles	0.424	joy
+amen	0.424	joy
+révérence	0.424	joy
+éjaculation	0.424	joy
+salubre	0.424	joy
+non contraint	0.424	joy
+les petites choses	0.424	joy
+richesse	0.422	joy
+l'obtention du diplôme	0.422	joy
+briller	0.422	joy
+lml	0.422	joy
+facilité	0.422	joy
+traîneau	0.422	joy
+sûr	0.422	joy
+fringant	0.422	joy
+énergie	0.422	joy
+calme	0.422	joy
+symphonie	0.422	joy
+utile	0.422	joy
+musical	0.422	joy
+débuts	0.422	joy
+pas de stress	0.421	joy
+solidité	0.421	joy
+promettre	0.415	joy
+réunir	0.414	joy
+mère	0.412	joy
+salut	0.412	joy
+des poèmes	0.412	joy
+purifier	0.409	joy
+voyage	0.409	joy
+lavande	0.409	joy
+aromathérapie	0.409	joy
+inauguration	0.409	joy
+pitre	0.409	joy
+immaculé	0.409	joy
+alléger	0.409	joy
+étoile	0.406	joy
+complétant	0.406	joy
+guérir	0.406	joy
+vivre	0.406	joy
+en espèces	0.406	joy
+un compagnon	0.406	joy
+opportun	0.406	joy
+charité	0.406	joy
+fleurs	0.406	joy
+souhaitant	0.406	joy
+le revenu	0.403	joy
+âme	0.401	joy
+grignotines	0.4	joy
+le progrès	0.397	joy
+indescriptible	0.397	joy
+christian	0.397	joy
+émancipation	0.397	joy
+égalité	0.394	joy
+rythmé	0.394	joy
+enfance	0.394	joy
+calme	0.394	joy
+pique-nique	0.394	joy
+ensemble	0.394	joy
+plénitude	0.394	joy
+hamac	0.394	joy
+films	0.393	joy
+zélé	0.393	joy
+chorale	0.391	joy
+maladroit	0.391	joy
+humanité	0.391	joy
+aventures	0.391	joy
+richesse	0.391	joy
+cour de récréation	0.391	joy
+étoilé	0.391	joy
+significatif	0.391	joy
+de bon augure	0.391	joy
+petites choses	0.391	joy
+réchauffe	0.391	joy
+geste	0.387	joy
+spirituel	0.382	joy
+achats	0.382	joy
+vœu	0.382	joy
+communion	0.379	joy
+saut	0.379	joy
+ambiance	0.379	joy
+culte	0.379	joy
+révérend	0.377	joy
+unique	0.375	joy
+scénique	0.375	joy
+cour	0.375	joy
+réunion	0.375	joy
+en hausse	0.375	joy
+plein	0.375	joy
+racheté	0.375	joy
+inoubliable	0.375	joy
+gaieté	0.375	joy
+hymne	0.375	joy
+simplicité	0.375	joy
+esprits	0.375	joy
+jeunesse	0.375	joy
+des plages	0.375	joy
+expérience	0.375	joy
+avance	0.375	joy
+sonore	0.375	joy
+de baptême	0.368	joy
+alliance	0.368	joy
+subvention	0.366	joy
+clair de lune	0.364	joy
+chaton	0.364	joy
+authentique	0.364	joy
+conciliation	0.364	joy
+sanctification	0.364	joy
+améliorer	0.364	joy
+pur	0.364	joy
+améliore	0.364	joy
+perte de poids	0.362	joy
+framboises	0.36	joy
+sentiment	0.359	joy
+dévotion	0.359	joy
+fidélité	0.359	joy
+écoute	0.359	joy
+compétence	0.359	joy
+plaisanter	0.359	joy
+indépendant	0.359	joy
+clinquant	0.359	joy
+la relance	0.359	joy
+sanctifier	0.359	joy
+cacao	0.353	joy
+donneur	0.353	joy
+objectif	0.348	joy
+se défouler	0.348	joy
+délivrance	0.348	joy
+dauphin	0.348	joy
+unification	0.348	joy
+rugissement	0.348	joy
+mélodie	0.348	joy
+choral	0.348	joy
+favoriser	0.348	joy
+dépasser	0.348	joy
+hotyoga	0.347	joy
+électrique	0.344	joy
+pas de travail	0.344	joy
+hédonisme	0.344	joy
+gage	0.344	joy
+humble	0.344	joy
+les kiddos	0.344	joy
+thx	0.344	joy
+fruits	0.344	joy
+nouveau départ	0.344	joy
+manucure	0.344	joy
+biscuits	0.344	joy
+rendez-vous amoureux	0.344	joy
+roadtrip	0.344	joy
+voluptueux	0.344	joy
+célébrité	0.342	joy
+rythme	0.338	joy
+demoiselle d'honneur	0.338	joy
+obligeant	0.333	joy
+familiarité	0.333	joy
+spa	0.333	joy
+connaisseur	0.333	joy
+café	0.333	joy
+édification	0.333	joy
+partenaire	0.333	joy
+jardin	0.333	joy
+rénovation	0.333	joy
+regardant	0.333	joy
+aube	0.333	joy
+jour de neige	0.333	joy
+jeune	0.333	joy
+fin gourmet	0.331	joy
+synchroniser	0.329	joy
+saint	0.328	joy
+carol	0.328	joy
+loisir	0.328	joy
+pas de regrets	0.328	joy
+amnistie	0.328	joy
+guérison	0.328	joy
+tribulations	0.328	joy
+vrai	0.328	joy
+chant	0.328	joy
+psaume	0.328	joy
+pédicure	0.328	joy
+répit	0.324	joy
+moelleux	0.318	joy
+loisir	0.318	joy
+classiques	0.318	joy
+les cousins	0.318	joy
+réparatrice	0.318	joy
+jour de flemmardise	0.318	joy
+réconciliation	0.316	joy
+superman	0.312	joy
+vivant	0.312	joy
+simplifier	0.312	joy
+récupération	0.312	joy
+rallumer	0.312	joy
+le coucher du soleil	0.312	joy
+artisanat	0.312	joy
+poney	0.312	joy
+traiter	0.312	joy
+presto	0.312	joy
+aptitude	0.312	joy
+sterling	0.312	joy
+sagesse	0.312	joy
+colombe	0.312	joy
+théâtre	0.312	joy
+les bois	0.312	joy
+beaucoup nécessaire	0.312	joy
+progression	0.312	joy
+seigneur	0.312	joy
+amélioration	0.309	joy
+bébé	0.309	joy
+absolution	0.306	joy
+interminable	0.303	joy
+établi	0.303	joy
+banquet	0.303	joy
+décorer	0.303	joy
+honnête	0.303	joy
+doucement	0.303	joy
+fournissant	0.3	joy
+doucement	0.297	joy
+aspiration	0.297	joy
+spirituel	0.297	joy
+croissance	0.297	joy
+pittoresque	0.297	joy
+notable	0.297	joy
+exploit	0.297	joy
+ambulant	0.297	joy
+se prélasser	0.297	joy
+en méditant	0.297	joy
+fraternel	0.297	joy
+joker	0.297	joy
+dépenses	0.297	joy
+lumière	0.297	joy
+morale	0.297	joy
+mien	0.297	joy
+récolte	0.297	joy
+brise	0.297	joy
+ferveur	0.295	joy
+bénévole	0.294	joy
+citations	0.294	joy
+gain	0.288	joy
+créer	0.288	joy
+sage-femme	0.288	joy
+ressources	0.288	joy
+psaumes	0.288	joy
+le taoïsme	0.288	joy
+hippie	0.288	joy
+recevoir	0.287	joy
+océan	0.286	joy
+lsd	0.286	joy
+chute de neige	0.286	joy
+randonnée	0.283	joy
+refroidissement	0.281	joy
+à feuilles persistantes	0.281	joy
+candide	0.281	joy
+se détendre	0.281	joy
+pain grillé	0.281	joy
+destination	0.281	joy
+infini	0.281	joy
+bouddhiste	0.281	joy
+reposé	0.281	joy
+trêve	0.281	joy
+bourdonnant	0.281	joy
+vénérable	0.279	joy
+retraite	0.275	joy
+équilibre	0.275	joy
+bouddha	0.273	joy
+les boissons	0.273	joy
+compenser	0.273	joy
+cheminée	0.273	joy
+pieux	0.273	joy
+ravi	0.273	joy
+nager	0.273	joy
+il neige	0.271	joy
+sublimation	0.27	joy
+fruité	0.268	joy
+caprice	0.266	joy
+saluer	0.266	joy
+soleil	0.266	joy
+dimanche	0.266	joy
+bouddhisme	0.266	joy
+cathédrale	0.266	joy
+ministère	0.266	joy
+humilité	0.266	joy
+yoga	0.266	joy
+courage	0.266	joy
+esquisse	0.266	joy
+parangon	0.266	joy
+vagues	0.266	joy
+ouvrages d'art	0.265	joy
+exercé	0.264	joy
+nettoyer	0.26	joy
+aliments	0.258	joy
+exercice	0.258	joy
+immerger	0.258	joy
+fonctionnement	0.258	joy
+raccord	0.258	joy
+a trouvé	0.258	joy
+clarté	0.258	joy
+l'automne	0.254	joy
+campagne	0.25	joy
+éternel	0.25	joy
+journal intime	0.25	joy
+football	0.25	joy
+en forme	0.25	joy
+visiteur	0.25	joy
+ardent	0.25	joy
+glacé	0.25	joy
+gazouiller	0.25	joy
+montagne	0.25	joy
+opportun	0.25	joy
+robuste	0.25	joy
+bougies	0.25	joy
+contagieux	0.25	joy
+plaidoyer	0.25	joy
+en plein air	0.25	joy
+taper	0.25	joy
+démonstratif	0.25	joy
+matin	0.25	joy
+berceau	0.247	joy
+transe	0.246	joy
+conservateur	0.242	joy
+procession	0.242	joy
+croître	0.242	joy
+intense	0.242	joy
+église	0.242	joy
+payer	0.242	joy
+petit déjeuner	0.242	joy
+suprématie	0.242	joy
+consécration	0.235	joy
+encens	0.234	joy
+ordination	0.234	joy
+lyre	0.234	joy
+vote	0.234	joy
+garderie	0.234	joy
+ski	0.234	joy
+humilié	0.234	joy
+un salaire	0.234	joy
+art	0.234	joy
+bougie	0.234	joy
+neigeux	0.234	joy
+poupée	0.234	joy
+durée de vie	0.234	joy
+pâtisserie	0.229	joy
+remède	0.227	joy
+luciole	0.227	joy
+glaçant	0.227	joy
+porter secours	0.225	joy
+la perspective	0.221	joy
+verger	0.221	joy
+camping	0.221	joy
+orchestre	0.221	joy
+frais	0.219	joy
+posséder	0.219	joy
+agneau	0.219	joy
+château	0.219	joy
+jardins	0.219	joy
+rapide	0.212	joy
+ruban	0.212	joy
+gouttes de pluie	0.212	joy
+reggae	0.212	joy
+pho	0.212	joy
+apprendre	0.212	joy
+rembourser	0.212	joy
+l'écoute	0.212	joy
+mucis	0.212	joy
+temps de combat	0.212	joy
+musique country	0.212	joy
+sieste	0.206	joy
+vernal	0.203	joy
+lumières	0.203	joy
+légalisé	0.203	joy
+louer	0.203	joy
+incontrôlable	0.203	joy
+chant	0.203	joy
+inattendu	0.203	joy
+immobilité	0.203	joy
+crique	0.203	joy
+enregistrer	0.2	joy
+symétrie	0.197	joy
+pasteur	0.197	joy
+expier	0.197	joy
+des arbres	0.197	joy
+un jour	0.197	joy
+écriture	0.196	joy
+les montagnes	0.194	joy
+silencieux	0.188	joy
+alcool	0.188	joy
+en marchant	0.188	joy
+folie	0.188	joy
+douane	0.188	joy
+sentier	0.188	joy
+aïeux	0.188	joy
+sympathique	0.188	joy
+blancheur	0.188	joy
+thé	0.188	joy
+sentimental	0.188	joy
+patient	0.186	joy
+maison de poupées	0.182	joy
+une baignoire	0.182	joy
+but	0.182	joy
+déménagement	0.182	joy
+supporter	0.18	joy
+accompagnement	0.179	joy
+poursuite	0.176	joy
+explosion	0.176	joy
+glacial	0.174	joy
+faire des exercices	0.172	joy
+fermeture	0.172	joy
+déjeuner	0.172	joy
+hivernal	0.172	joy
+un service	0.172	joy
+civilisé	0.169	joy
+les salaires	0.169	joy
+décembre	0.167	joy
+avare	0.167	joy
+glisser	0.162	joy
+acrobate	0.162	joy
+enfin	0.157	joy
+chai	0.156	joy
+pouvant être obtenu	0.156	joy
+organisation	0.156	joy
+menthe poivrée	0.156	joy
+promenade	0.156	joy
+pause	0.156	joy
+elfe	0.156	joy
+baignoire	0.156	joy
+reproducteur	0.156	joy
+baume	0.152	joy
+avènement	0.152	joy
+mesuré	0.152	joy
+scifi	0.152	joy
+épagneul	0.145	joy
+bronzer	0.141	joy
+chansonnette	0.141	joy
+bulle	0.141	joy
+bière	0.141	joy
+simple	0.141	joy
+huiles	0.141	joy
+vert	0.137	joy
+livres	0.136	joy
+bus	0.136	joy
+faire des disciples	0.136	joy
+bouffe	0.135	joy
+pitter	0.134	joy
+les flux	0.13	joy
+silence	0.127	joy
+librairie	0.125	joy
+conditions	0.125	joy
+solitude	0.125	joy
+roadster	0.125	joy
+du vin	0.125	joy
+région sauvage	0.121	joy
+tremper	0.121	joy
+prêtrise	0.121	joy
+japon	0.121	joy
+cri	0.116	joy
+neutre	0.114	joy
+vent	0.109	joy
+chasse	0.109	joy
+délier	0.109	joy
+opéra	0.109	joy
+blanc	0.109	joy
+poids	0.109	joy
+le sable	0.109	joy
+classique	0.106	joy
+la main d'oeuvre	0.106	joy
+affliction	0.103	joy
+lac	0.103	joy
+organe	0.094	joy
+habitation	0.094	joy
+arbre	0.09	joy
+étang	0.089	joy
+latté	0.078	joy
+moelle	0.078	joy
+en sirotant	0.076	joy
+bénin	0.074	joy
+majorité	0.073	joy
+feuille	0.065	joy
+troubles	0.062	joy
+basketball	0.062	joy
+des explosions	0.061	joy
+crème	0.061	joy
+berger	0.058	joy
+mardi	0.047	joy
+turbulence	0.045	joy
+veau	0.04	joy
+épreuves	0.031	joy
+le malheur	0.016	joy
+soixante	0.016	joy
+
